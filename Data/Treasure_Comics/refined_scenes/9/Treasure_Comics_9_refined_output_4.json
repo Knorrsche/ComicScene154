@@ -1,0 +1,962 @@
+{
+    "Major_Arcs": [
+        {
+            "arc_id": "M1",
+            "title": "The Circus and Paul Bunyan's Rise",
+            "description": "This major arc introduces Paul Bunyan in a circus setting, his initial performance, the public's reaction, and the conflict with Matto Grasso, culminating in Paul Bunyan becoming the new strongman and dealing with Grasso's revenge attempts.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S1",
+                    "title": "Circus Arrival and Initial Performance",
+                    "starting_page": "1",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(48, 27, 654.5, 469.5)",
+                    "description": "This sub-scene introduces the circus to the town and focuses on Paul Bunyan's performance and the initial reactions of the townspeople.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "1",
+                            "title": "Paul Bunyan's Circus Act",
+                            "starting_page": "1",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "2",
+                            "title": "News of the Circus Arrival",
+                            "starting_page": "1",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "3",
+                            "title": "Family's Reaction to Circus Animals",
+                            "starting_page": "1",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S2",
+                    "title": "Conflict with Billings and Matto Grasso",
+                    "starting_page": "2",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(39, 22, 258.5, 205.5)",
+                    "description": "This sub-scene introduces conflict as two men investigate trouble, leading to a confrontation with Billings and Matto Grasso, and Grasso's subsequent escape and pursuit.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "4",
+                            "title": "Investigating Trouble and Confronting Billings",
+                            "starting_page": "2",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "5",
+                            "title": "Matto Grasso's Retaliation and Escape",
+                            "starting_page": "2",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "6",
+                            "title": "Armed Pursuit of Paul Bunyan",
+                            "starting_page": "2",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S3",
+                    "title": "Paul Bunyan Becomes the Strongman",
+                    "starting_page": "3",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(39, 25, 279, 257.5)",
+                    "description": "This sub-scene showcases Paul Bunyan's unexpected strength, leading to the circus owner offering him the role of the strongman after Matto Grasso's departure.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "7",
+                            "title": "Confrontation and Unexpected Strength",
+                            "starting_page": "3",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "8",
+                            "title": "Owner's Explanation and Revelation of Identity",
+                            "starting_page": "3",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "9",
+                            "title": "Offering a New Role: The Strong Man",
+                            "starting_page": "3",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S4",
+                    "title": "Grasso's Revenge and Bunyan's Response",
+                    "starting_page": "4",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(34, 21, 331, 232.5)",
+                    "description": "This sub-scene depicts Matto Grasso's envy and revenge plots against Paul Bunyan, and Bunyan's heroic responses to thwart Grasso's attempts to disrupt the circus.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "10",
+                            "title": "Paul Bunyan's Circus Debut and Grasso's Envy",
+                            "starting_page": "4",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "11",
+                            "title": "Grasso's Revenge Plan: Kerosene and Fire",
+                            "starting_page": "4",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "12",
+                            "title": "Fire in the Arena and Bunyan's Control",
+                            "starting_page": "4",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "13",
+                            "title": "Grasso's Renewed Frustration and Ape Release Plan",
+                            "starting_page": "5",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "14",
+                            "title": "Paul Bunyan Recaptures Gigantico",
+                            "starting_page": "5",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "15",
+                            "title": "The Chase for the Culprit Begins",
+                            "starting_page": "5",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "16",
+                            "title": "Desperate Attempts to Thwart Paul Bunyan in the Arena",
+                            "starting_page": "6",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S5",
+                    "title": "Capture of Grasso and Bunyan's Departure",
+                    "starting_page": "7",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(35, 20, 311, 222)",
+                    "description": "This sub-scene depicts an unexpected 'show' involving Sonny and Paul Bunyan, leading to Sonny's capture and Paul Bunyan's decision to leave the circus.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "17",
+                            "title": "Challenge and Boast in the Circus Ring",
+                            "starting_page": "7",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "18",
+                            "title": "Spectator's Unseen Show",
+                            "starting_page": "7",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "19",
+                            "title": "The Unwanted Trapeze Flight",
+                            "starting_page": "7",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "20",
+                            "title": "Trapeze Rescue and Acclaim",
+                            "starting_page": "8",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "21",
+                            "title": "Praise and Capture Order",
+                            "starting_page": "8",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "22",
+                            "title": "Rejection of Offer and Departure",
+                            "starting_page": "8",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M2",
+            "title": "Marco Polo and the Ogress of Tibet",
+            "description": "This major arc follows Marco Polo's adventure in Tibet, his encounter with the Ogress, rescue of Princess Lotus, and return to the mourning city.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S6",
+                    "title": "Encounter with the Severed Head and the Dagger",
+                    "starting_page": "9",
+                    "panel_index_of_start": "2",
+                    "coordinates_of_starting_panel": "(37, 420, 301.5, 612.5)",
+                    "description": "This sub-scene introduces a bizarre encounter with a severed head in a forest, which leads to Marco Polo receiving a magical dagger and direction towards Princess Lotus.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "24",
+                            "title": "Discovery of Talking Head and Plea for Help",
+                            "starting_page": "9",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "25",
+                            "title": "Gratitude and a Gift of a Sacred Dagger",
+                            "starting_page": "10",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "26",
+                            "title": "Direction Towards Princess Lotus and Farewell",
+                            "starting_page": "10",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S7",
+                    "title": "Arrival at Mourning City and Meeting the King",
+                    "starting_page": "10",
+                    "panel_index_of_start": "5",
+                    "coordinates_of_starting_panel": "(26, 442, 327.5, 616.5)",
+                    "description": "This sub-scene focuses on Marco Polo's arrival at a city in mourning and his meeting with the King, where he learns about the disappearance of Princess Lotus.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "27",
+                            "title": "Arrival at a Mourning City",
+                            "starting_page": "10",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "28",
+                            "title": "Audience with the Mourning King and the Tale of Princess Lotus",
+                            "starting_page": "11",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S8",
+                    "title": "Encounter with the Weeping Woman and the Witch's Castle",
+                    "starting_page": "11",
+                    "panel_index_of_start": "4",
+                    "coordinates_of_starting_panel": "(308, 225, 610.5, 418.5)",
+                    "description": "This sub-scene details Marco's encounter with a weeping woman, his offer of help, and their journey to a castle that turns out to be the Ogress's lair.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "29",
+                            "title": "Encounter with a Weeping Woman in Distress",
+                            "starting_page": "11",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "30",
+                            "title": "Plea for Help and Journey to a Suspect Castle",
+                            "starting_page": "11",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "31",
+                            "title": "Entering the Castle and the Witch's 'Pets'",
+                            "starting_page": "12",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "32",
+                            "title": "Transformation and Revelation of the Ogress",
+                            "starting_page": "12",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "33",
+                            "title": "Confrontation with Tusked Mice and Ogress's Claws",
+                            "starting_page": "12",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "34",
+                            "title": "Fire Attack and Evasion",
+                            "starting_page": "13",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "35",
+                            "title": "Snake Entrapment and Capture",
+                            "starting_page": "13",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "36",
+                            "title": "Captivity and Identification",
+                            "starting_page": "14",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "37",
+                            "title": "Forgotten Knife and Liberation",
+                            "starting_page": "14",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "38",
+                            "title": "Confrontation and Unexpected Attack",
+                            "starting_page": "14",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "39",
+                            "title": "Escape with Magic Knife",
+                            "starting_page": "15",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S9",
+                    "title": "Rescue, Reunion, and Reward",
+                    "starting_page": "15",
+                    "panel_index_of_start": "2",
+                    "coordinates_of_starting_panel": "(325, 28, 611, 220.5)",
+                    "description": "This sub-scene concludes Marco Polo's adventure with the Ogress by showing his and Princess Lotus's return to the city, their reunion with the King, and Marco's acceptance of marriage as a reward.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "40",
+                            "title": "Arrival at Mourning City and Palace",
+                            "starting_page": "15",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "41",
+                            "title": "Reunion, Gratitude, and Proposed Marriage",
+                            "starting_page": "15",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M3",
+            "title": "The Treasure of Agra and Betrayal",
+            "description": "This major arc narrates a tale of treasure, betrayal, and revenge, starting with a prisoner's proposition and ending with a deadly confrontation over the treasure in an attic.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S10",
+                    "title": "Introduction by the Treasure Keeper and Prison Setting",
+                    "starting_page": "16",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(42, 24, 615.5, 413)",
+                    "description": "This sub-scene begins with the Treasure Keeper introducing the tale and then shifts to a prison setting where a prisoner seeks release by offering information about hidden treasure.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "42",
+                            "title": "Introduction by the Treasure Keeper",
+                            "starting_page": "16",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "43",
+                            "title": "Prisoner's Plea for Release",
+                            "starting_page": "16",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "44",
+                            "title": "Captain's Inquiry and Order Confirmation",
+                            "starting_page": "16",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "45",
+                            "title": "Treasure Proposition and Escape Agreement",
+                            "starting_page": "17",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S11",
+                    "title": "The Captain's Betrayal and Jordan's Revenge",
+                    "starting_page": "18",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(34, 24, 332.5, 216)",
+                    "description": "This sub-scene reveals the Captain's betrayal, Jordan's outrage and vow of revenge, and his long wait for freedom to pursue his plan.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "46",
+                            "title": "Realization of Betrayal and Captain's Departure",
+                            "starting_page": "18",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "47",
+                            "title": "Jordan's Outrage and Vow of Revenge",
+                            "starting_page": "18",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "48",
+                            "title": "Years Pass, Freedom, and Pursuit of Revenge",
+                            "starting_page": "18",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "49",
+                            "title": "Jordan's Vigil and the Officer's Departure",
+                            "starting_page": "19",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "50",
+                            "title": "Confrontation and Evasive Recognition",
+                            "starting_page": "19",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "51",
+                            "title": "Demand, Agreement, and Midnight Meeting",
+                            "starting_page": "19",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "52",
+                            "title": "Ascent to the Attic and Treasure Reveal",
+                            "starting_page": "20",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "53",
+                            "title": "Betrayal and Attic Confrontation",
+                            "starting_page": "20",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "54",
+                            "title": "Desperate Struggle and Brooking's Victory",
+                            "starting_page": "20",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "55",
+                            "title": "Sound of Gunfire and Initial Investigation",
+                            "starting_page": "21",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "56",
+                            "title": "Confrontation and Desperate Jump",
+                            "starting_page": "21",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "57",
+                            "title": "Police Speculation and Homicide Squad",
+                            "starting_page": "21",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "58",
+                            "title": "Concluding Monologue on Treasure and Evil",
+                            "starting_page": "21",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M4",
+            "title": "The Haunted Matthews Estate",
+            "description": "This major arc revolves around the investigation of the haunted Matthews estate, exploring themes of guilt, fear, and redemption through forgiveness and love.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S12",
+                    "title": "Introduction to the Haunting and Investigator's Arrival",
+                    "starting_page": "22",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(37, 24, 619, 620)",
+                    "description": "This sub-scene sets up the haunted Matthews estate, introducing the problem and the investigator, Mr. Northrup, who is called in to handle the supernatural disturbances.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "59",
+                            "title": "Attack and Intervention in a Room",
+                            "starting_page": "22",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "60",
+                            "title": "Courtroom Sentencing of Vincent Matthews",
+                            "starting_page": "22",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "61",
+                            "title": "Declaration of Intense Hatred",
+                            "starting_page": "22",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "62",
+                            "title": "The Haunted Matthews Estate and the Investigator's Arrival",
+                            "starting_page": "23",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "63",
+                            "title": "Ignoring the Warning and Entering the Haunted House",
+                            "starting_page": "24",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S13",
+                    "title": "Confrontation with Vincent Matthews' Ghost and Resolution",
+                    "starting_page": "24",
+                    "panel_index_of_start": "3",
+                    "coordinates_of_starting_panel": "(28, 192, 216, 467.5)",
+                    "description": "This sub-scene details Mr. Northrup's encounters with Vincent Matthews' ghost, their dialogues about fear and hate, and the ultimate resolution through forgiveness and brotherly love from Rosalind.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "64",
+                            "title": "First Encounter with Vincent Matthews' Ghost",
+                            "starting_page": "24",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "65",
+                            "title": "Escalating Threat and Defiant Stance",
+                            "starting_page": "24",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "66",
+                            "title": "Threats and Initial Attack",
+                            "starting_page": "25",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "67",
+                            "title": "Capture and Venomous Grip",
+                            "starting_page": "25",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "68",
+                            "title": "Escape and Shift in Power",
+                            "starting_page": "25",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "69",
+                            "title": "Questioning Violence",
+                            "starting_page": "26",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "70",
+                            "title": "Admission of Feared Status",
+                            "starting_page": "26",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "71",
+                            "title": "Deconstructing Fear",
+                            "starting_page": "26",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "72",
+                            "title": "Seeking Guidance and Admitting Fear",
+                            "starting_page": "26",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "73",
+                            "title": "The Path to Salvation: Forgiveness and Love",
+                            "starting_page": "26",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "74",
+                            "title": "Refusal to Face Rosalind",
+                            "starting_page": "27",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "75",
+                            "title": "Forced Confrontation",
+                            "starting_page": "27",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "76",
+                            "title": "Physical Subjugation and Assertion of Strength",
+                            "starting_page": "27",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "77",
+                            "title": "Summoning Rosalind from Beyond",
+                            "starting_page": "27",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "78",
+                            "title": "Rosalind's Arrival and Mission",
+                            "starting_page": "27",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "79",
+                            "title": "Presentation of the Destroyer",
+                            "starting_page": "28",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "80",
+                            "title": "The Plea for Forgiveness",
+                            "starting_page": "28",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "81",
+                            "title": "The Necessity of Brotherly Love",
+                            "starting_page": "28",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "82",
+                            "title": "Regret and Gratitude",
+                            "starting_page": "29",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "83",
+                            "title": "Departure to Everlasting Sleep",
+                            "starting_page": "29",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "84",
+                            "title": "Post-Haunting Explanation",
+                            "starting_page": "29",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M5",
+            "title": "The Voyages and Mutiny of Henry Hudson",
+            "description": "This major arc recounts the historical voyages of Henry Hudson, his relentless pursuit of the Northwest Passage, and the tragic mutiny that ended his explorations.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S14",
+                    "title": "The Proposition and Second Voyage",
+                    "starting_page": "30",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(39, 22, 602, 418)",
+                    "description": "This sub-scene introduces the historical context of Henry Hudson's mystery and then details the Dutch East India Company's proposition for him to find the Northwest Passage.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "85",
+                            "title": "The Mystery of Henry Hudson",
+                            "starting_page": "30",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "86",
+                            "title": "The Dutch East India Company's Proposition",
+                            "starting_page": "30",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "87",
+                            "title": "Captain Hudson's Hesitation and Agreement",
+                            "starting_page": "30",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "88",
+                            "title": "Crew's Discontent and Threat of Mutiny",
+                            "starting_page": "31",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "89",
+                            "title": "Entering the Hudson River with Hope",
+                            "starting_page": "31",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "90",
+                            "title": "Disappointment and Decision to Return",
+                            "starting_page": "31",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "91",
+                            "title": "Hudson's Reflection and Order to Return Home",
+                            "starting_page": "31",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "92",
+                            "title": "Return to Holland",
+                            "starting_page": "31",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "93",
+                            "title": "Setting Sail Again for the Northwest Passage",
+                            "starting_page": "32",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S15",
+                    "title": "Trapped in Ice and the Mutiny",
+                    "starting_page": "32",
+                    "panel_index_of_start": "2",
+                    "coordinates_of_starting_panel": "(37, 226, 367, 414)",
+                    "description": "This sub-scene depicts the ship being trapped in ice, the crew's increasing despair, and the eventual eruption of mutiny against Hudson.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "94",
+                            "title": "Ship Stuck in Ice and Crew's Despair",
+                            "starting_page": "32",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "95",
+                            "title": "The Ice Melts and Conflict Over Voyage Direction",
+                            "starting_page": "32",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "96",
+                            "title": "The Mutiny Erupts",
+                            "starting_page": "33",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "97",
+                            "title": "Captain Hudson Set Adrift",
+                            "starting_page": "33",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "98",
+                            "title": "Return and Reckoning for the Mutineers",
+                            "starting_page": "33",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M6",
+            "title": "The Arabian Knight and the Rescue of the Sheik's Daughter",
+            "description": "This major arc tells the story of Hassan, the Arabian Knight, and his mission to rescue the Sheik's daughter from Kurgan, the Tartar leader, through infiltration, combat, and negotiation.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S16",
+                    "title": "Introduction of Hassan and the Caliph's Mission",
+                    "starting_page": "34",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(34, 23, 607.5, 413.5)",
+                    "description": "This sub-scene introduces Hassan and the threat of the Tartar horsemen, followed by Hassan receiving a dangerous mission from the Caliph to rescue the kidnapped Sheik's daughter.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "99",
+                            "title": "Introduction of The Arabian Knight",
+                            "starting_page": "34",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "100",
+                            "title": "The Caliph's Dangerous Mission",
+                            "starting_page": "34",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "101",
+                            "title": "Hassan's Determined Journey to the Oasis",
+                            "starting_page": "35",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "102",
+                            "title": "Encounter and Warning at the Oasis",
+                            "starting_page": "35",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S17",
+                    "title": "Infiltration and Capture at the Tartar Camp",
+                    "starting_page": "36",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(42, 26, 323.5, 210.5)",
+                    "description": "This sub-scene details Hassan's infiltration into the Tartar camp, his initial plan to gather intel and rescue the daughter, which leads to his discovery by guards and capture.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "103",
+                            "title": "Infiltration at Nightfall",
+                            "starting_page": "36",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "104",
+                            "title": "Subduing the Sentry and Disguise",
+                            "starting_page": "36",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "105",
+                            "title": "Inside the Camp and Gaining Intel",
+                            "starting_page": "36",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "106",
+                            "title": "The Daughter's Plea and Revelation",
+                            "starting_page": "37",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "107",
+                            "title": "Suspicion and Confrontation at the Tent",
+                            "starting_page": "37",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "108",
+                            "title": "Capture and Recognition as Enemy",
+                            "starting_page": "37",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S18",
+                    "title": "Trial by Combat and Kurgan's Promise",
+                    "starting_page": "38",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(35, 24, 322.5, 218)",
+                    "description": "This sub-scene focuses on Hassan's interrogation by Kurgan, the challenge of trial by combat, the unfair terms set by Kurgan, and Hassan's resolve to win.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "109",
+                            "title": "Interrogation and Challenge by Kurgan",
+                            "starting_page": "38",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "110",
+                            "title": "Negotiation and Unfair Terms",
+                            "starting_page": "38",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "111",
+                            "title": "Hassan's Determination and Resolve",
+                            "starting_page": "38",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "112",
+                            "title": "The Signal and Hassan's Resolve",
+                            "starting_page": "39",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "113",
+                            "title": "Dirt in the Eyes and First Foe Down",
+                            "starting_page": "39",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "114",
+                            "title": "Engaging the Second Opponent",
+                            "starting_page": "39",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "115",
+                            "title": "Confrontation and Threat",
+                            "starting_page": "40",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "116",
+                            "title": "Defeat and No Mercy",
+                            "starting_page": "40",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "117",
+                            "title": "Demanding the Reward and Kurgan's Praise",
+                            "starting_page": "40",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S19",
+                    "title": "Resolution, Farewell, and Romantic Conclusion",
+                    "starting_page": "41",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(39, 21, 327.5, 221.5)",
+                    "description": "This sub-scene concludes the Arabian Knight's story with Kurgan honoring his word, the woman expressing gratitude and romantic interest, and a kiss marking a positive conclusion to their adventure.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "118",
+                            "title": "Kurgan's Farewell and Peace Offering",
+                            "starting_page": "41",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "119",
+                            "title": "Gratitude and Duty",
+                            "starting_page": "41",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "120",
+                            "title": "Questioning Affection and Blushing Response",
+                            "starting_page": "41",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "121",
+                            "title": "Imminent Departure and The One Thing",
+                            "starting_page": "41",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "122",
+                            "title": "The Reward of a Kiss",
+                            "starting_page": "41",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1302 @@
+{
+    "Major_Arcs": [
+        {
+            "arc_id": "MA1",
+            "title": "Introduction and Saloon Setting",
+            "description": "This major arc introduces the comic's setting, characters, and initial conflicts in a Western saloon and transitions to the looming threat to Ghost Town.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "SS1",
+                    "title": "Comic Introduction and Setting the Scene",
+                    "starting_page": "1",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(35, 29, 626, 370.5)",
+                    "description": "These initial arcs establish the comic's title, creators, and the contrast between modern progress and the enduring spirit of the West, setting the stage in a saloon.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "1",
+                            "title": "Introduction to the Girl from Ghost Town",
+                            "starting_page": "1",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "2",
+                            "title": "Saloon Conversation and Conflicting Desires",
+                            "starting_page": "1",
+                            "panel_index_of_start": "2"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS2",
+                    "title": "Transition to Ghost Town and Airport Conflict",
+                    "starting_page": "2",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(17, 19, 214.5, 203)",
+                    "description": "This sub-scene depicts the characters moving from the saloon to Ghost Town and introduces the central conflict of the town's impending demolition for an airport, focusing on the emotional impact on the woman.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "3",
+                            "title": "Saloon Exit and Ghost Town Ride",
+                            "starting_page": "2",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "4",
+                            "title": "Ghost Town's Past and Airport Future",
+                            "starting_page": "2",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "MA2",
+            "title": "Emotional Turmoil and Flashback",
+            "description": "This major arc delves into the emotional reactions to Ghost Town's demolition, focusing on the woman's emotional argument, her observation of the town's demise, and a flashback providing context to her connection with Ghost Town.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "SS3",
+                    "title": "Emotional Argument and Observation of Demolition",
+                    "starting_page": "3",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(27, 27, 242, 240.5)",
+                    "description": "These arcs depict the woman's emotional argument about the Ghost Town's demolition and her direct observation of its destruction, highlighting her deep connection and distress.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "5",
+                            "title": "Emotional Argument about Ghost Town's Demolition",
+                            "starting_page": "3",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "6",
+                            "title": "Observing the Ghost Town's Demise",
+                            "starting_page": "3",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS4",
+                    "title": "Flashback to Ghost Town's Past",
+                    "starting_page": "3",
+                    "panel_index_of_start": "6",
+                    "coordinates_of_starting_panel": "(22, 414, 327, 609.5)",
+                    "description": "This sub-scene presents a flashback to Ghost Town in its heyday, showing the woman's past interactions with rough men and providing context for her emotional attachment to the place.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "7",
+                            "title": "Flashback to Ghost Town's Heyday",
+                            "starting_page": "3",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "MA3",
+            "title": "Family Business and Romantic Tensions",
+            "description": "This major arc shifts to family dynamics and business discussions related to the airport and horses. It introduces tension between Nan and her father, Nan's emotional distress, and her complex relationship with Cal.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "SS5",
+                    "title": "Business and Family Conflict over Airport",
+                    "starting_page": "4",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(18, 23, 377, 206)",
+                    "description": "These arcs introduce business discussions regarding the airport and juxtapose them with family tensions, particularly between Dad and Nan, over the same issue.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "8",
+                            "title": "Business Discussion and Family Tension",
+                            "starting_page": "4",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "9",
+                            "title": "Horse Rental Proposition",
+                            "starting_page": "4",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "10",
+                            "title": "Escalating Argument and Threat",
+                            "starting_page": "4",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "11",
+                            "title": "Humiliation and Retreat",
+                            "starting_page": "4",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS6",
+                    "title": "Maternal Comfort and Nan's Resolve",
+                    "starting_page": "5",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(28, 32, 226, 241.5)",
+                    "description": "This sub-scene focuses on Nan's emotional recovery through maternal comfort and advice, and her subsequent resolve to seek answers regarding her relationship with Cal.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "12",
+                            "title": "Mother's Comfort and Advice",
+                            "starting_page": "5",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "13",
+                            "title": "Parental Discussion about Cal's Love",
+                            "starting_page": "5",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "14",
+                            "title": "Maid's Pragmatic View on Love and Action",
+                            "starting_page": "5",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "15",
+                            "title": "Nan's Resolve to Seek Answers",
+                            "starting_page": "5",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "16",
+                            "title": "Seeking Cal",
+                            "starting_page": "5",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS7",
+                    "title": "Horseback Conversation and Relationship Clarification",
+                    "starting_page": "5",
+                    "panel_index_of_start": "6",
+                    "coordinates_of_starting_panel": "(25, 422, 307.5, 609)",
+                    "description": "These arcs depict Nan's pursuit of Cal, their horseback conversation, and initial attempts to clarify their relationship amidst the backdrop of the airport and horse business.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "17",
+                            "title": "Horseback Conversation - Airport Deadline",
+                            "starting_page": "5",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "18",
+                            "title": "Horseback Conversation - Contract and Commitment",
+                            "starting_page": "5",
+                            "panel_index_of_start": "7"
+                        },
+                        {
+                            "arc_id": "19",
+                            "title": "Nan's Plea and Cal's Dismissal",
+                            "starting_page": "6",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "20",
+                            "title": "Cal's Departure Announcement",
+                            "starting_page": "6",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "21",
+                            "title": "Nan's Resigned Observation",
+                            "starting_page": "6",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "22",
+                            "title": "Nan's Reflective Monologue on Loneliness",
+                            "starting_page": "6",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "23",
+                            "title": "Cal's Hesitant Confession of Feeling",
+                            "starting_page": "6",
+                            "panel_index_of_start": "7"
+                        },
+                        {
+                            "arc_id": "24",
+                            "title": "Nan and Cal's Reconciliation and Understanding",
+                            "starting_page": "7",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "MA4",
+            "title": "Snowstorm Crisis and Relief",
+            "description": "This major arc shifts focus to an external crisis \u2013 a severe snowstorm \u2013 and its impact on the community. It covers the initial assessment of the storm's severity, growing concerns about livestock, and the eventual relief brought by air-dropped fodder.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "SS8",
+                    "title": "Assessing the Snowstorm's Danger",
+                    "starting_page": "7",
+                    "panel_index_of_start": "2",
+                    "coordinates_of_starting_panel": "(239, 26, 622, 243)",
+                    "description": "These arcs depict the initial assessment of the unprecedented severity of the snowstorm and the growing concerns about its impact on livestock and fodder supplies.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "25",
+                            "title": "Mr. Wills and Son Assess the Snowstorm's Severity",
+                            "starting_page": "7",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "26",
+                            "title": "Grave Concerns about Livestock and Fodder",
+                            "starting_page": "7",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "27",
+                            "title": "Confirmation of the Weather's Unprecedented Danger",
+                            "starting_page": "7",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "28",
+                            "title": "Seeking Comfort and Hope Amidst Hardship",
+                            "starting_page": "7",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "29",
+                            "title": "Cal's Ominous Reflection on Impending Starvation and Future Uncertainty",
+                            "starting_page": "7",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS9",
+                    "title": "Despair, Reassurance, and Aerial Relief",
+                    "starting_page": "8",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(25, 28, 311.5, 210.5)",
+                    "description": "This sub-scene encompasses the emotional rollercoaster of despair and fear, followed by reassurance and the eventual arrival of aerial aid, culminating in relief and a moment of romantic reflection amidst the crisis.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "30",
+                            "title": "Nan's Doubt and Cal's Reassurance in the Face of Crisis",
+                            "starting_page": "8",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "31",
+                            "title": "Nan's Mother's Plea for Rest and Hope Amidst Overwhelming Odds",
+                            "starting_page": "8",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "32",
+                            "title": "Cal's Restless Night and the Unrelenting Snow",
+                            "starting_page": "8",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "33",
+                            "title": "Despair and Weariness in the Face of Endless Winter",
+                            "starting_page": "8",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "34",
+                            "title": "Sound of an Airplane and a Glimmer of Hope",
+                            "starting_page": "8",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "35",
+                            "title": "Excitement and Realization of Fodder Drop",
+                            "starting_page": "8",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "36",
+                            "title": "Conversation on Romance Amidst Crisis and Relief",
+                            "starting_page": "8",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "MA5",
+            "title": "Cowtown Casanova and Town Dynamics",
+            "description": "This major arc introduces a new character, Chane Benson, and a new setting in a Western town. It focuses on Chane's actions, the varied reactions of the townspeople, and the emerging conflicts and relationships within this new environment.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "SS10",
+                    "title": "Introduction of Chane Benson and Town Reactions",
+                    "starting_page": "9",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(25, 26, 615.5, 405)",
+                    "description": "These arcs introduce Chane Benson through a fight scene and showcase the diverse reactions of the townspeople, from admiration to cynicism, setting up his character and town dynamics.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "37",
+                            "title": "Introduction of Chane Benson and a Town Scene",
+                            "starting_page": "9",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "38",
+                            "title": "Reactions and Judgments of Bystanders on Chane Benson's Actions",
+                            "starting_page": "9",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "39",
+                            "title": "Further Reactions and Cynical Commentary on Chane Benson",
+                            "starting_page": "9",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS11",
+                    "title": "Family Concerns and Contrasting Male Figures",
+                    "starting_page": "10",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(20, 22, 372, 214.5)",
+                    "description": "This sub-scene shifts to a family setting, highlighting a mother's concerns about Jeff's fascination with violence and contrasting the morally upright Clyde Surrett with the more aggressive Chane Benson.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "40",
+                            "title": "Mother's Flashback and Concerns About Jeff",
+                            "starting_page": "10",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "41",
+                            "title": "Confrontation Over Dad's Gun",
+                            "starting_page": "10",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "42",
+                            "title": "Mother's Aspirations and Moral Comparison",
+                            "starting_page": "10",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "43",
+                            "title": "Macho Banter and Violent Undertones between Clyde and Chane",
+                            "starting_page": "10",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS12",
+                    "title": "Sally, Clyde, and Concerns for Jeff",
+                    "starting_page": "11",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(19, 19, 334.5, 213.5)",
+                    "description": "This sub-scene focuses on Sally's deep concern for Jeff and her interactions with Clyde, highlighting their differing approaches to Jeff's situation and Sally's determination to help him.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "44",
+                            "title": "Sally's Initial Concern About Jeff",
+                            "starting_page": "11",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "45",
+                            "title": "Clyde's Reassurance to Sally",
+                            "starting_page": "11",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "46",
+                            "title": "Sally's Insistence on Helping Jeff",
+                            "starting_page": "11",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "47",
+                            "title": "Clyde's Affectionate Agreement and Future Vision",
+                            "starting_page": "11",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "48",
+                            "title": "Narrator's Observation of Jeff's Absence and Town Ride",
+                            "starting_page": "11",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "49",
+                            "title": "Sally Seeks Advice from Mr. Benson",
+                            "starting_page": "11",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "50",
+                            "title": "Mr. Benson's Advice on Violence and Youth",
+                            "starting_page": "11",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS13",
+                    "title": "Newspaper Article Conflict and Sally's Distress",
+                    "starting_page": "12",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(23, 36, 229.5, 224.5)",
+                    "description": "This sub-scene introduces a newspaper article as a source of conflict, depicting Sally's outrage, Clyde's dismissive reaction as the editor, and Sally's turn to Benson for guidance.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "51",
+                            "title": "Sally's Outrage Over the Article and Initial Talk with Benson",
+                            "starting_page": "12",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "52",
+                            "title": "Clyde Questions the Newspaper Article",
+                            "starting_page": "12",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "53",
+                            "title": "Sally Confronts Clyde, the Editor, About the Article",
+                            "starting_page": "12",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "54",
+                            "title": "Clyde's Dismissive Reaction and Sally's Criticism",
+                            "starting_page": "12",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "55",
+                            "title": "Sally Seeks Benson's Guidance in Juniper",
+                            "starting_page": "12",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS14",
+                    "title": "Benson's Plan and Jeff's Interpretation of the Article",
+                    "starting_page": "13",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(13, 34, 205, 227.5)",
+                    "description": "This sub-scene details Benson's plan to use the press and contrasts it with Jeff's interpretation of the article and speculation about Clyde's violent reaction, setting up potential confrontations.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "56",
+                            "title": "Benson's Confrontation and Plan",
+                            "starting_page": "13",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "57",
+                            "title": "Jeff's Reaction to the Article and Speculation on Clyde's Response",
+                            "starting_page": "13",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "58",
+                            "title": "Considering Dinner with Chane and Reflecting on His Character",
+                            "starting_page": "13",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS15",
+                    "title": "Dinner Invitation and Escalating Conflict",
+                    "starting_page": "14",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(25, 28, 307.5, 214)",
+                    "description": "This sub-scene begins with the aftermath of a dinner invitation and quickly escalates into a tense confrontation involving misunderstandings, physical aggression, and a forced kiss, highlighting the volatile dynamics between Sally, Jeff, and Chane.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "59",
+                            "title": "Post-Dinner Moonlight Conversation and Rising Tension",
+                            "starting_page": "14",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "60",
+                            "title": "Physical Confrontation and Forced Kiss",
+                            "starting_page": "14",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "61",
+                            "title": "Sally's Angry Outburst and Clarification",
+                            "starting_page": "14",
+                            "panel_index_of_start": "7"
+                        },
+                        {
+                            "arc_id": "62",
+                            "title": "Immediate Aftermath and Explanations Following the Forced Kiss",
+                            "starting_page": "15",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS16",
+                    "title": "Urgent Action to Save Clyde and Town Showdown",
+                    "starting_page": "15",
+                    "panel_index_of_start": "5",
+                    "coordinates_of_starting_panel": "(431, 226, 619, 412.5)",
+                    "description": "This sub-scene focuses on the urgent action taken to save Clyde, Jeff's determined ride to town, and the ensuing showdown with Chane, showcasing a shift from personal conflict to action-oriented confrontation.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "63",
+                            "title": "Realization of Danger to Clyde and Urgent Need to Go to Town",
+                            "starting_page": "15",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "64",
+                            "title": "Jeff's Determined Ride to Save Clyde",
+                            "starting_page": "15",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "65",
+                            "title": "Confrontation in Town and Jeff's Intervention",
+                            "starting_page": "15",
+                            "panel_index_of_start": "7"
+                        },
+                        {
+                            "arc_id": "66",
+                            "title": "Escalating Tensions and a Challenge to a Fistfight",
+                            "starting_page": "16",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "67",
+                            "title": "The Showdown and Departure",
+                            "starting_page": "16",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "68",
+                            "title": "Anxious Wait in the Clarion Office",
+                            "starting_page": "16",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "69",
+                            "title": "Sally's Concern and Shared Anxiety",
+                            "starting_page": "16",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "70",
+                            "title": "Relief and Headline Change",
+                            "starting_page": "16",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "71",
+                            "title": "Recounting the Night's Events and Newspaper Priority",
+                            "starting_page": "16",
+                            "panel_index_of_start": "7"
+                        },
+                        {
+                            "arc_id": "72",
+                            "title": "Praise for Jeff and Clyde's Character and Family Values",
+                            "starting_page": "16",
+                            "panel_index_of_start": "8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "MA6",
+            "title": "New Boss and Ranch Conflicts",
+            "description": "This major arc transitions to a new storyline focusing on ranch conflicts, introducing Steve Daley as the new boss and the emerging tensions and threats related to ranch ownership and range wars.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "SS17",
+                    "title": "Introduction of Steve Daley and Initial Tensions",
+                    "starting_page": "17",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(21, 26, 620.5, 413)",
+                    "description": "These arcs introduce Steve Daley as the new boss, setting up immediate tensions and conflicts, including a threatening confrontation and initial skepticism towards Steve's capabilities.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "73",
+                            "title": "Aggressive Confrontation and Threat",
+                            "starting_page": "17",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "74",
+                            "title": "Introduction of the New Boss, Steve Daley",
+                            "starting_page": "17",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "75",
+                            "title": "Steve Daley's Explanation and Reassurance",
+                            "starting_page": "17",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "76",
+                            "title": "Settling Steve In and Past Doubts",
+                            "starting_page": "18",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS18",
+                    "title": "Ranch Troubles and Trip to Town",
+                    "starting_page": "18",
+                    "panel_index_of_start": "3",
+                    "coordinates_of_starting_panel": "(21, 186, 219, 458.5)",
+                    "description": "This sub-scene details the ranch's troubles, including missing cattle and damaged property, and the subsequent trip to town, setting up further conflicts and developments.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "77",
+                            "title": "Ranch Troubles and Range War Fear",
+                            "starting_page": "18",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "78",
+                            "title": "Trip to Town and Hank's Orders for Dress Material",
+                            "starting_page": "18",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "79",
+                            "title": "Ready to Leave Town",
+                            "starting_page": "19",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "80",
+                            "title": "Confrontation with Fred Bridges",
+                            "starting_page": "19",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "81",
+                            "title": "Plotting Against Steve",
+                            "starting_page": "19",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "82",
+                            "title": "Steve's Intervention and Fight",
+                            "starting_page": "19",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS19",
+                    "title": "Betsy's Decision, Romantic Realization, and Steve's Commitment",
+                    "starting_page": "20",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(26, 19, 212.5, 292.5)",
+                    "description": "This sub-scene revolves around Betsy's decisions regarding Hank's employment, her romantic realization about Steve, and Steve's commitment to her, amidst the backdrop of ranch conflicts.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "83",
+                            "title": "Hank's Reprieve",
+                            "starting_page": "20",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "84",
+                            "title": "Reasoning for Keeping Hank",
+                            "starting_page": "20",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "85",
+                            "title": "Betsy's Romantic Realization",
+                            "starting_page": "20",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "86",
+                            "title": "Gratitude and Anticipation",
+                            "starting_page": "20",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "87",
+                            "title": "Job Offer and Gun Concern",
+                            "starting_page": "21",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "88",
+                            "title": "Sudden Confession of Love",
+                            "starting_page": "21",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "89",
+                            "title": "Promise and Kiss",
+                            "starting_page": "21",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS20",
+                    "title": "Escalating Ranch Conflicts and Steve's Past",
+                    "starting_page": "22",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(24, 26, 295, 189.5)",
+                    "description": "This sub-scene details escalating ranch conflicts, including a confrontation initiated by Old Man Bridges and Hank, and reveals Steve's past and the ambush he faced, justifying his actions and Betsy's evolving perspective.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "90",
+                            "title": "Bridges' Complaint and Betsy's Intervention",
+                            "starting_page": "22",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "91",
+                            "title": "Confrontation with Hank and Steve's Defense",
+                            "starting_page": "22",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "92",
+                            "title": "Justification for Arms and Recall of Ambush",
+                            "starting_page": "22",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS21",
+                    "title": "Betsy's Shift to Force and Steve's Departure",
+                    "starting_page": "23",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(16, 26, 315.5, 170.5)",
+                    "description": "This sub-scene shows Betsy's shift from seeking peaceful solutions to embracing force, her confrontation with Steve about his violent intentions, and Steve's resolute departure towards Devil's Pass, leading to Betsy's pursuit.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "93",
+                            "title": "Betsy's Distress and Arming Herself",
+                            "starting_page": "23",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "94",
+                            "title": "Betsy's Accusation and Steve's Resolve",
+                            "starting_page": "23",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "95",
+                            "title": "Betsy's Plea and Steve's Departure",
+                            "starting_page": "23",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "96",
+                            "title": "Betsy's Internal Justification and Reflection",
+                            "starting_page": "23",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "97",
+                            "title": "Betsy's Narration of Pursuit and Arrival at Devil's Pass",
+                            "starting_page": "23",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS22",
+                    "title": "Devil's Pass Confrontation and Romantic Reassurance",
+                    "starting_page": "24",
+                    "panel_index_of_start": "2",
+                    "coordinates_of_starting_panel": "(320, 29, 617.5, 170)",
+                    "description": "This sub-scene includes the violent confrontation at Devil's Pass where Steve is captured, juxtaposed with a romantic interlude where Betsy and Steve reassure each other of their love amidst the danger.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "98",
+                            "title": "Confrontation and Capture at Devil's Pass",
+                            "starting_page": "24",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "99",
+                            "title": "Romantic Reassurance and Devotion",
+                            "starting_page": "24",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "MA7",
+            "title": "Complex Relationships and Deception",
+            "description": "This major arc introduces new complex relationships and deceptive plots involving Carrie, Fred, and Dave, focusing on romantic manipulations, business deals, and emotional betrayals.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "SS23",
+                    "title": "Betsy's Stern Warning and Curley's Troubled State",
+                    "starting_page": "25",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(25, 43, 611, 419)",
+                    "description": "These arcs introduce Betsy in a stern role, warning Dave, and then shift to Curley's troubled behavior and concerns about external ranch threats, setting a tone of unease and foreshadowing conflicts.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "100",
+                            "title": "Argument between Betsy and Dave",
+                            "starting_page": "25",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "101",
+                            "title": "Curley's Troubled Behavior and Ranch Concerns",
+                            "starting_page": "25",
+                            "panel_index_of_start": "2"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS24",
+                    "title": "Fence Dispute and Violent Escalation",
+                    "starting_page": "26",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(24, 33, 264.5, 221.5)",
+                    "description": "This sub-scene depicts the escalating fence dispute, from initial discussions and confrontation to Curley's violent intervention and the clear rejection of Dave and Betsy's group.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "102",
+                            "title": "Fence Dispute and Initial Confrontation",
+                            "starting_page": "26",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "103",
+                            "title": "Attempted Mediation and Rising Suspicion",
+                            "starting_page": "26",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "104",
+                            "title": "Violent Escalation and Rejection",
+                            "starting_page": "26",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS25",
+                    "title": "Reconciliation, Differing Opinions, and Ominous Encounter",
+                    "starting_page": "27",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(28, 31, 257, 223.5)",
+                    "description": "This sub-scene includes Carrie and Dave's reconciliation, differing opinions about Fred Gordon, a decision to avoid conflict, and an ominous encounter with Fred, creating a mix of personal and relational tensions.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "105",
+                            "title": "Apology and Reassurance",
+                            "starting_page": "27",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "106",
+                            "title": "Discussion of Fred and Differing Opinions",
+                            "starting_page": "27",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "107",
+                            "title": "Agreement to Avoid Conflict and Carrie's Reflection",
+                            "starting_page": "27",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "108",
+                            "title": "Encounter with Fred Gordon and Ominous Question",
+                            "starting_page": "27",
+                            "panel_index_of_start": "8"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS26",
+                    "title": "Confrontation, Love Confession, and Marriage Proposal",
+                    "starting_page": "28",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(22, 24, 285, 215)",
+                    "description": "This sub-scene features confrontations and emotional revelations, leading to a love confession and a marriage proposal, showcasing rapid shifts in relationships and emotions.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "109",
+                            "title": "Confrontation about Dave",
+                            "starting_page": "28",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "110",
+                            "title": "Miss Bronson and Mr. Gordon's Conversation about Dave's Feelings",
+                            "starting_page": "28",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "111",
+                            "title": "Reconciliation and Movie Invitation",
+                            "starting_page": "28",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "112",
+                            "title": "Fred's Ambition and Marriage Proposal",
+                            "starting_page": "28",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS27",
+                    "title": "Carlton Contract Deception and Fury",
+                    "starting_page": "29",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(24, 33, 169, 220)",
+                    "description": "This sub-scene reveals Fred's deceptive plan regarding the Carlton contract, leading to Carrie's furious confrontation and physical reaction, marking a dramatic turning point in their relationship.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "113",
+                            "title": "Carlton Contract Deception Revealed",
+                            "starting_page": "29",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "114",
+                            "title": "Carrie's Fury and Confrontation",
+                            "starting_page": "29",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "115",
+                            "title": "Intervention and Justification Attempt",
+                            "starting_page": "29",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS28",
+                    "title": "Carlton's Office Confrontation and Emotional Fallout",
+                    "starting_page": "30",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(18, 35, 170, 220.5)",
+                    "description": "This sub-scene features Carrie's forceful confrontation in Carlton's office, followed by the emotional aftermath where she seeks comfort from her father and appears to concede to Fred, showing a complex resolution.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "116",
+                            "title": "Confrontation at Carlton's Office",
+                            "starting_page": "30",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "117",
+                            "title": "Accusations and Assertions in Carlton's Office",
+                            "starting_page": "30",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "118",
+                            "title": "Emotional Aftermath and Father's Comfort",
+                            "starting_page": "30",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS29",
+                    "title": "Separation and Misunderstanding Clarification",
+                    "starting_page": "31",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(24, 41, 284, 227)",
+                    "description": "This sub-scene depicts Carrie's reflection and separation from Fred, followed by an encounter with Dave where misunderstandings are clarified, leading to a complex emotional exchange and a memory flashback.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "119",
+                            "title": "Reflecting on Past Pride and Present Hurt with Fred",
+                            "starting_page": "31",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "120",
+                            "title": "Unexpected Encounter and Cold Dismissal in Town",
+                            "starting_page": "31",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "121",
+                            "title": "Suppressed Words and Apologetic Confusion",
+                            "starting_page": "31",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "122",
+                            "title": "Father's Prescience and Buckboard Ride",
+                            "starting_page": "31",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "123",
+                            "title": "Concern and Defiance in the Buckboard",
+                            "starting_page": "31",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS30",
+                    "title": "Illness, Confession, and Romantic Climax",
+                    "starting_page": "32",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(15, 25, 163, 219)",
+                    "description": "This sub-scene encompasses Carrie's illness, Dave's confession of Fred's deception, and the subsequent romantic climax where Carrie and Fred reconcile and express their love, resolving the central romantic conflict.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "124",
+                            "title": "Doctor's Advice and Impending Visit",
+                            "starting_page": "32",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "125",
+                            "title": "Father and Dave's Clarification & Carlton's Interjection",
+                            "starting_page": "32",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "126",
+                            "title": "Dave's Confession and Carrie's Ride to Fred",
+                            "starting_page": "32",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "127",
+                            "title": "Romantic Climax and Kiss",
+                            "starting_page": "32",
+                            "panel_index_of_start": "8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "MA8",
+            "title": "Dirk and Chris's Escape and Betrayal",
+            "description": "This major arc shifts to a separate storyline focusing on Chris and Dirk's escape, their pursuit by the Marshal, and the ultimate betrayal and romantic resolution for Chris.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "SS31",
+                    "title": "Urgent Plea, Confession, and Escape Plan",
+                    "starting_page": "33",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(27, 34, 614.5, 394)",
+                    "description": "This sub-scene introduces Dirk's urgent plea to Chris, followed by a doctor's examination, setting up the context for their escape plan.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "128",
+                            "title": "Late Night Visitor and Urgent Plea",
+                            "starting_page": "33",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "129",
+                            "title": "Dirk's Confession and Examination",
+                            "starting_page": "33",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "130",
+                            "title": "Worried Kin and a Father's Decision",
+                            "starting_page": "34",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "131",
+                            "title": "Marshal's Inquiry and Rancher's Arrival",
+                            "starting_page": "34",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "132",
+                            "title": "Mistaken Identity and Hostile Rancher",
+                            "starting_page": "34",
+                            "panel_index_of_start": "7"
+                        },
+                        {
+                            "arc_id": "133",
+                            "title": "Marshal's Interrogation and Demand",
+                            "starting_page": "35",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "134",
+                            "title": "Plea for Mercy and a Change of Plans",
+                            "starting_page": "35",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "135",
+                            "title": "Personal Reflections and Shifting Dynamics",
+                            "starting_page": "35",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "136",
+                            "title": "Confession and Hesitation",
+                            "starting_page": "36",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "137",
+                            "title": "Embrace and Internal Conflict",
+                            "starting_page": "36",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "138",
+                            "title": "Duty vs. Love and a Hint of Escape",
+                            "starting_page": "36",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "139",
+                            "title": "Decision to Act and Arming Dirk",
+                            "starting_page": "36",
+                            "panel_index_of_start": "9"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS32",
+                    "title": "Escape, Pursuit, and Gunfight Climax",
+                    "starting_page": "37",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(27, 20, 256, 206.5)",
+                    "description": "This sub-scene details Dirk and Chris's escape attempt, the immediate pursuit by the Marshal, the ensuing gunfight, and its immediate aftermath, escalating the action and danger.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "140",
+                            "title": "Escape and Immediate Pursuit",
+                            "starting_page": "37",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "141",
+                            "title": "Desperate Evasion and Gunfight",
+                            "starting_page": "37",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "142",
+                            "title": "Aftermath and Moral Dilemma",
+                            "starting_page": "37",
+                            "panel_index_of_start": "7"
+                        },
+                        {
+                            "arc_id": "143",
+                            "title": "Forced Abandonment and Confession",
+                            "starting_page": "38",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "144",
+                            "title": "Return, Revelation, and Deception",
+                            "starting_page": "38",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "SS33",
+                    "title": "Recovery, Reconciliation, and Wedding Climax",
+                    "starting_page": "39",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(25, 31, 256.5, 223.5)",
+                    "description": "This final sub-scene focuses on Rance's recovery, his reconciliation with Chris, their marriage proposal, and the wedding ceremony itself, resolving the romantic storyline and bringing the narrative to a close.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "145",
+                            "title": "Recovery and Reassurance",
+                            "starting_page": "39",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "146",
+                            "title": "Concern, Privacy, and Father's Burden",
+                            "starting_page": "39",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "147",
+                            "title": "Affection, Confession, and Proposal",
+                            "starting_page": "39",
+                            "panel_index_of_start": "7"
+                        },
+                        {
+                            "arc_id": "148",
+                            "title": "Pre-Wedding Reflections and Reassurance",
+                            "starting_page": "40",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "149",
+                            "title": "Wedding Ceremony Begins",
+                            "starting_page": "40",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "150",
+                            "title": "Anticipation and Ominous Arrival",
+                            "starting_page": "40",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "151",
+                            "title": "Ceremony Interruption and Dirk's Entrance",
+                            "starting_page": "40",
+                            "panel_index_of_start": "7"
+                        },
+                        {
+                            "arc_id": "152",
+                            "title": "Explanation and Backstory",
+                            "starting_page": "40",
+                            "panel_index_of_start": "8"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

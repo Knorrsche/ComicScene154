@@ -1,0 +1,154 @@
+{
+    "file_name": "img_000000000000003_aoop1_003_jpg.rf.92bde4a0ed133e5df35eeee6e0f49591.jpg",
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 15,
+            "category_id": 1,
+            "bbox": [
+                22,
+                27,
+                612.5,
+                206.5
+            ],
+            "area": 105994.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 15,
+            "category_id": 1,
+            "bbox": [
+                23,
+                207,
+                316.5,
+                392
+            ],
+            "area": 54297.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 15,
+            "category_id": 1,
+            "bbox": [
+                325,
+                209,
+                617,
+                391
+            ],
+            "area": 53144,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 15,
+            "category_id": 1,
+            "bbox": [
+                20,
+                394,
+                318,
+                570.5
+            ],
+            "area": 52597,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 15,
+            "category_id": 1,
+            "bbox": [
+                321,
+                395,
+                614.5,
+                572
+            ],
+            "area": 51949.5,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ],
+    "comiq_bubbles": [
+        {
+            "text_box": [
+                29,
+                208,
+                55,
+                390
+            ],
+            "text": "WHAT A GORJUS CLEAR DAY, EH DINNY? CAN SEE FER MILES!",
+            "panel_id": "1",
+            "type": "dialogue"
+        },
+        {
+            "text_box": [
+                132,
+                33,
+                193,
+                229
+            ],
+            "text": "BRONTO SORENESS",
+            "panel_id": "1",
+            "type": "narration"
+        },
+        {
+            "text_box": [
+                215,
+                29,
+                225,
+                69
+            ],
+            "text": "WOT THE...?",
+            "panel_id": "2",
+            "type": "dialogue"
+        },
+        {
+            "text_box": [
+                215,
+                352,
+                248,
+                565
+            ],
+            "text": "YA BOBBLE-BRAINED FOSSIL! THATS THE FIFTH TIME THIS WEEK YOU BUMPED INTO A TREE!",
+            "panel_id": "3",
+            "type": "dialogue"
+        },
+        {
+            "text_box": [
+                400,
+                37,
+                417,
+                128
+            ],
+            "text": "WHATS THE TROUBLE, OOP?",
+            "panel_id": "4",
+            "type": "dialogue"
+        },
+        {
+            "text_box": [
+                400,
+                157,
+                434,
+                305
+            ],
+            "text": "ITS THIS BROKEN-DOWN DINOSAUR OF MINE! HE KEEPS BUMPIN INTA THINGS!",
+            "panel_id": "4",
+            "type": "dialogue"
+        },
+        {
+            "text_box": [
+                427,
+                561,
+                434,
+                600
+            ],
+            "text": "AT LEAST!",
+            "panel_id": "5",
+            "type": "dialogue"
+        }
+    ]
+}

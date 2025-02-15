@@ -1,0 +1,132 @@
+{
+    "file_name": "img_000000000000019_aoop1_019_jpg.rf.c7401408071ad9c4ecf0bf73123503aa.jpg",
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 12,
+            "category_id": 1,
+            "bbox": [
+                21,
+                14,
+                363.5,
+                215.5
+            ],
+            "area": 69013.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 12,
+            "category_id": 1,
+            "bbox": [
+                379,
+                17,
+                620,
+                216
+            ],
+            "area": 47959,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 12,
+            "category_id": 1,
+            "bbox": [
+                13,
+                216,
+                318.5,
+                421
+            ],
+            "area": 62627.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 12,
+            "category_id": 1,
+            "bbox": [
+                326,
+                222,
+                617.5,
+                419
+            ],
+            "area": 57425.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 12,
+            "category_id": 1,
+            "bbox": [
+                17,
+                428,
+                620.5,
+                625.5
+            ],
+            "area": 119191.25,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ],
+    "comiq_bubbles": [
+        {
+            "text_box": [
+                20,
+                40,
+                30,
+                125
+            ],
+            "text": "THAT NIGHT!",
+            "panel_id": "1",
+            "type": "narration"
+        },
+        {
+            "text_box": [
+                241,
+                269,
+                258,
+                308
+            ],
+            "text": "HAW! HAW!",
+            "panel_id": "2",
+            "type": "sound_effect"
+        },
+        {
+            "text_box": [
+                432,
+                40,
+                466,
+                204
+            ],
+            "text": "YOU MEAN TO SAY ALL THESE NEW CASES GOT THIS WAY FROM DOING THE",
+            "panel_id": "4",
+            "type": "dialogue"
+        },
+        {
+            "text_box": [
+                433,
+                250,
+                459,
+                336
+            ],
+            "text": "HOSPITAL QUIET!",
+            "panel_id": "4",
+            "type": "background"
+        },
+        {
+            "text_box": [
+                433,
+                379,
+                440,
+                440
+            ],
+            "text": "NOSSIR!--FROM WATCHING IT!",
+            "panel_id": "4",
+            "type": "dialogue"
+        }
+    ]
+}

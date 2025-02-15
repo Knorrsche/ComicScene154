@@ -1,0 +1,1429 @@
+{
+    "Major_Arcs": [
+        {
+            "arc_id": "M1",
+            "title": "Introduction of The Human Meteor",
+            "description": "This major arc introduces the comic book and its main character, The Human Meteor, setting the stage for the story.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S1",
+                    "title": "Comic Book Cover Reveal",
+                    "starting_page": "1",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(20, 94, 624, 706.5)",
+                    "description": "The cover page reveals the comic title, the main character, and hints at the initial conflict and setting.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "1",
+                            "title": "Introduction of The Human Meteor",
+                            "starting_page": "1",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M2",
+            "title": "Duke's Taxi Service and Suspicion",
+            "description": "This major arc establishes Duke's taxi driver persona and the initial events that lead him to suspect something is amiss, transitioning him towards his superhero identity.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S2",
+                    "title": "Taxi Job for Wealthy Passengers",
+                    "starting_page": "2",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(26, 23, 363, 221)",
+                    "description": "Duke picks up rich playboys and takes them to the waterfront, setting the scene and introducing Duke in his civilian role.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "2",
+                            "title": "Taxi Service for Rich Playboy",
+                            "starting_page": "2",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S3",
+                    "title": "Rising Suspicion and Transformation",
+                    "starting_page": "2",
+                    "panel_index_of_start": "6",
+                    "coordinates_of_starting_panel": "(43, 413, 323, 611.5)",
+                    "description": "Duke notices G-Man Holden's car and becomes suspicious, leading him to transform into the Human Meteor.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "3",
+                            "title": "Suspicious G-Man's Car",
+                            "starting_page": "2",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "4",
+                            "title": "Human Meteor's Call to Action",
+                            "starting_page": "2",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M3",
+            "title": "Initial Superhero Action and New Mission",
+            "description": "This major arc showcases Human Meteor's initial superhero actions, leading to a new mission related to a suspected Japanese submarine.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S4",
+                    "title": "Confrontation with Criminals",
+                    "starting_page": "3",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(8, 20, 356, 219.5)",
+                    "description": "Human Meteor confronts and apprehends 'cop shooters', establishing his active superhero role.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "5",
+                            "title": "Confrontation with Cop Shooters",
+                            "starting_page": "3",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S5",
+                    "title": "Hospital Briefing and Yacht Investigation Plan",
+                    "starting_page": "3",
+                    "panel_index_of_start": "3",
+                    "coordinates_of_starting_panel": "(12, 223, 321, 410.5)",
+                    "description": "Human Meteor gets a new mission from G-Man Holden in the hospital, involving a suspicious yacht and a Japanese submarine. Duke and Toby plan to investigate.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "6",
+                            "title": "Hospital Visit and New Mission",
+                            "starting_page": "3",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "7",
+                            "title": "Planning and Yacht Stowaway",
+                            "starting_page": "3",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "8",
+                            "title": "Discovery on the Yacht",
+                            "starting_page": "3",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M4",
+            "title": "Yacht Infiltration and Mission Twist",
+            "description": "This major arc focuses on the yacht infiltration, Duke's investigation, and a major plot twist regarding Toby's true allegiance.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S6",
+                    "title": "Yacht Crew Activities and Cabin Investigation",
+                    "starting_page": "4",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(28, 25, 314.5, 251)",
+                    "description": "Duke investigates the yacht, observing the crew and finding a depth chart, while Toby is still on board.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "9",
+                            "title": "Yacht Crew and Cabin Investigation",
+                            "starting_page": "4",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S7",
+                    "title": "Toby's Fall and Rescue - Mission Revealed",
+                    "starting_page": "4",
+                    "panel_index_of_start": "5",
+                    "coordinates_of_starting_panel": "(275, 223, 444, 408.5)",
+                    "description": "Toby is attacked and falls overboard, leading to Duke's rescue and the revelation that Toby is working undercover with the yacht captain to investigate a submarine.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "10",
+                            "title": "Toby's Capture and Plunge",
+                            "starting_page": "4",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "11",
+                            "title": "Duke's Rescue and Yacht's True Mission",
+                            "starting_page": "4",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M5",
+            "title": "Underwater Investigation and Submarine Attack",
+            "description": "This major arc details Duke's underwater approach, his discovery of the sunken submarine and the ongoing resupply operation, culminating in his attack on the submarine.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S8",
+                    "title": "Duke's Underwater Journey and Submarine Discovery",
+                    "starting_page": "5",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(21, 16, 255.5, 217.5)",
+                    "description": "Duke approaches the yacht underwater and discovers the sunken Japanese submarine and the resupply operation.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "12",
+                            "title": "Duke's Underwater Approach",
+                            "starting_page": "5",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "13",
+                            "title": "Sunken Submarine and Resupply Discovery",
+                            "starting_page": "5",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "14",
+                            "title": "Torpedo Loading Command and Execution",
+                            "starting_page": "5",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S9",
+                    "title": "Underwater Combat and Submarine Attack",
+                    "starting_page": "6",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(27, 27, 285, 219.5)",
+                    "description": "Duke fights divers, encounters a new diver and a tentacle monster, and then attacks the submarine with a torpedo.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "15",
+                            "title": "Divers Attack and Retreat",
+                            "starting_page": "6",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "16",
+                            "title": "Confrontation with New Diver and Tentacle Attack",
+                            "starting_page": "6",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "17",
+                            "title": "Torpedo Attack on Submarine",
+                            "starting_page": "7",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M6",
+            "title": "Surface Aftermath and Evidence Gathering",
+            "description": "This major arc deals with the immediate aftermath of the submarine attack, shifting to events on the ship and Duke's return to the surface to gather evidence.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S10",
+                    "title": "Shipboard Mystery and Targeting the Ship",
+                    "starting_page": "7",
+                    "panel_index_of_start": "4",
+                    "coordinates_of_starting_panel": "(20, 218, 258, 408.5)",
+                    "description": "Events on the ship deck involving a fallen man and a geyser, followed by Duke targeting the ship.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "18",
+                            "title": "Shipboard Incident and Mysterious Geyser",
+                            "starting_page": "7",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "19",
+                            "title": "Duke Targets the Ship and Needs Air",
+                            "starting_page": "7",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S11",
+                    "title": "Yacht Discovery and Evidence Presentation",
+                    "starting_page": "8",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(42, 19, 205.5, 224.5)",
+                    "description": "Duke surfaces, finds the depth map on the yacht, and presents it as evidence to a naval officer.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "20",
+                            "title": "Discovery on the Yacht and Map Revelation",
+                            "starting_page": "8",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M7",
+            "title": "Resolution and Winding Down",
+            "description": "This major arc concludes the Human Meteor storyline, transitioning through travel, hospital visit, and ending with a domestic scene.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S12",
+                    "title": "Travel and Hospital Visit to Holden",
+                    "starting_page": "8",
+                    "panel_index_of_start": "4",
+                    "coordinates_of_starting_panel": "(33, 225, 261, 412.5)",
+                    "description": "Duke and Toby travel and visit Holden in the hospital, checking on his recovery.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "21",
+                            "title": "Motorcycle Ride and Speedy Pursuit",
+                            "starting_page": "8",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "22",
+                            "title": "Hospital Visit and Holden's Recovery",
+                            "starting_page": "8",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S13",
+                    "title": "Evening and Bedtime",
+                    "starting_page": "8",
+                    "panel_index_of_start": "8",
+                    "coordinates_of_starting_panel": "(263, 413, 461.5, 586.5)",
+                    "description": "Duke and Toby drive home, and Toby is put to bed, concluding the day's events.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "23",
+                            "title": "Evening Drive Home and Bedtime",
+                            "starting_page": "8",
+                            "panel_index_of_start": "8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M8",
+            "title": "Boys' Adventure Begins - The Wallet",
+            "description": "This major arc initiates a new storyline focusing on two boys, Skip and Chuck, and their discovery of a dropped wallet, leading them into a new adventure.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S14",
+                    "title": "Imagined Conflict and Ambulance Observation",
+                    "starting_page": "9",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(18, 27, 612, 404)",
+                    "description": "An imagined dramatic scene is followed by the boys noticing an ambulance arrival.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "24",
+                            "title": "Confrontation with Nazi Fiends",
+                            "starting_page": "9",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "25",
+                            "title": "Ambulance Arrival and Injured Man",
+                            "starting_page": "9",
+                            "panel_index_of_start": "2"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S15",
+                    "title": "Wallet Discovery and Decision to Return",
+                    "starting_page": "10",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(32, 25, 296.5, 228)",
+                    "description": "The boys find a dropped wallet and decide to return it to the address, initiating their adventure.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "26",
+                            "title": "Ambulance Interne Drops Wallet and Boys Investigate",
+                            "starting_page": "10",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "27",
+                            "title": "Marine Salutes Civilian and Boys Inquire",
+                            "starting_page": "10",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M9",
+            "title": "Bus Garage Encounter and Mr. Horst",
+            "description": "This major arc details the boys' arrival at the bus garage, their interaction with personnel, and their intimidating encounter with Mr. Horst.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S16",
+                    "title": "Arrival and Wait at the Garage",
+                    "starting_page": "11",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(16, 21, 294, 214)",
+                    "description": "The boys reach the bus garage, return the wallet, and are led inside to wait for Mr. Horst.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "28",
+                            "title": "Boys Arrive at Bus Garage and Encounter Uniformed Man",
+                            "starting_page": "11",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "29",
+                            "title": "Boys Led to Mr. Horst and Instructed to Wait",
+                            "starting_page": "11",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S17",
+                    "title": "Confrontation with Mr. Horst",
+                    "starting_page": "11",
+                    "panel_index_of_start": "5",
+                    "coordinates_of_starting_panel": "(373, 224, 602, 408.5)",
+                    "description": "Mr. Horst confronts the boys in an intimidating manner, initiating a tense interaction.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "30",
+                            "title": "Sudden Grab and Confrontation with Mr. Horst",
+                            "starting_page": "11",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "31",
+                            "title": "Horst Questions Boys About Wallet Contents",
+                            "starting_page": "12",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M10",
+            "title": "Sinister Plot and Violent Turn",
+            "description": "This major arc reveals a sinister plot involving carbon monoxide and escalates into a violent confrontation at the bus garage.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S18",
+                    "title": "Unveiling the Carbon Monoxide Plan",
+                    "starting_page": "12",
+                    "panel_index_of_start": "3",
+                    "coordinates_of_starting_panel": "(28, 228, 306, 413)",
+                    "description": "A separate accusatory scene and a threatening order from Horst reveal a sinister plan involving carbon monoxide.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "32",
+                            "title": "Accusation of Lying in Another Room",
+                            "starting_page": "12",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "33",
+                            "title": "Threatening Order and Agreement",
+                            "starting_page": "12",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "34",
+                            "title": "Major Bronson's Interruption",
+                            "starting_page": "12",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "35",
+                            "title": "Discussion of a 'Quieter' Method",
+                            "starting_page": "12",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "36",
+                            "title": "Carbon Monoxide Plan",
+                            "starting_page": "12",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S19",
+                    "title": "Violent Confrontation and Shooting",
+                    "starting_page": "13",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(24, 19, 619, 229)",
+                    "description": "A fight breaks out, the boys are overpowered, and Major Bronson is shot by Horst, escalating the danger.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "37",
+                            "title": "Fight Breaks Out and Order to Stop",
+                            "starting_page": "13",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "38",
+                            "title": "Boys Overpowered and Boss's Comment",
+                            "starting_page": "13",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "39",
+                            "title": "Man with Glasses Threatens Boys with Gun",
+                            "starting_page": "13",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "40",
+                            "title": "Major Bronson Shot by Horst",
+                            "starting_page": "13",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "41",
+                            "title": "Henchmen React and Boys Escape",
+                            "starting_page": "13",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M11",
+            "title": "Seeking Help and Uncovering Sabotage Plot",
+            "description": "This major arc follows the boys' escape and their separate paths to seek help and uncover the larger sabotage plot.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S20",
+                    "title": "Seeking Marine Aid and Waterfront Journey",
+                    "starting_page": "14",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(28, 22, 335.5, 240)",
+                    "description": "Chuck and Skip decide to seek help. Chuck encounters a Marine Sergeant who leads him to the waterfront.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "42",
+                            "title": "Decision to Seek Help",
+                            "starting_page": "14",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "43",
+                            "title": "Chuck and the Marine Sergeant",
+                            "starting_page": "14",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "44",
+                            "title": "Marine Leads Chuck to Waterfront",
+                            "starting_page": "14",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S21",
+                    "title": "Skip's Discovery in Secret Office",
+                    "starting_page": "14",
+                    "panel_index_of_start": "4",
+                    "coordinates_of_starting_panel": "(339, 202, 620, 619)",
+                    "description": "Skip discovers sabotage plans in a secret office, uncovering the broader conspiracy.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "45",
+                            "title": "Skip Discovers Sabotage Plans and Confrontation",
+                            "starting_page": "14",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M12",
+            "title": "Marine Intervention and Resolution of Spy Ring",
+            "description": "This major arc depicts the Marines' response to the situation, their intervention, and the successful dismantling of the Nazi spy ring.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S22",
+                    "title": "Marine Barracks Alert and Car Crash Response",
+                    "starting_page": "15",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(21, 15, 305.5, 233)",
+                    "description": "Alerted at the Marine Barracks, Marines respond, crashing a car in their haste to help.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "46",
+                            "title": "Marine Barracks Alert and Crash",
+                            "starting_page": "15",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S23",
+                    "title": "Marines Arrive and Resolve the Conflict",
+                    "starting_page": "15",
+                    "panel_index_of_start": "3",
+                    "coordinates_of_starting_panel": "(21, 200, 612.5, 408.5)",
+                    "description": "Marines arrive, engage in a fight, and ultimately dismantle the Nazi spy ring, despite Major Bronson's injury.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "47",
+                            "title": "Skip's Book Defense and Gun Confrontation",
+                            "starting_page": "15",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "48",
+                            "title": "Marines' Arrival and Intervention",
+                            "starting_page": "16",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "49",
+                            "title": "Major's Injury and Aftermath",
+                            "starting_page": "16",
+                            "panel_index_of_start": "2"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M13",
+            "title": "Introduction of Champ and Henry and South American Adventure Begins",
+            "description": "This major arc introduces new protagonists, Champ and Henry, and sets the stage for their South American adventure against Axis agents.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S24",
+                    "title": "Character Introduction and Setting",
+                    "starting_page": "17",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(10, 19, 609, 403)",
+                    "description": "Introduction of Champ and Henry and the nature of their fight against Axis powers.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "50",
+                            "title": "Introduction of The Champ and Henry",
+                            "starting_page": "17",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S25",
+                    "title": "Discovery and Initial Confrontation in South America",
+                    "starting_page": "17",
+                    "panel_index_of_start": "2",
+                    "coordinates_of_starting_panel": "(13, 410, 270.5, 603)",
+                    "description": "Champ and Henry are located in a South American town and are confronted by local authorities.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "51",
+                            "title": "Discovery in South American Town",
+                            "starting_page": "17",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "52",
+                            "title": "Confrontation - Questioning Intentions",
+                            "starting_page": "17",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M14",
+            "title": "Interrogation and Kidnapping Plot Reveal",
+            "description": "This major arc details the interrogation of Champ and Henry and the revelation of President Rosita's daughter's kidnapping by El Tigre.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S26",
+                    "title": "Police Interrogation and Departure",
+                    "starting_page": "18",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(38, 17, 309, 215)",
+                    "description": "Champ and Henry are interrogated by officers about their presence and knowledge of Rosita's daughter.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "53",
+                            "title": "Interrogation and Revelation of Rosita's Kidnapping",
+                            "starting_page": "18",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M15",
+            "title": "Abduction and New Allies",
+            "description": "This major arc sees Champ and Henry abducted, but it turns out to be a rescue mission setup by allies connected to Rosita's mother.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S27",
+                    "title": "Forced Abduction and Journey",
+                    "starting_page": "19",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(14, 26, 203, 224)",
+                    "description": "Champ and Henry are forcibly taken into a car, leading to a new location and encounter.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "54",
+                            "title": "Forced Entry and Car Abduction",
+                            "starting_page": "19",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M16",
+            "title": "Hideout Infiltration and El Tigre Confrontation",
+            "description": "This major arc focuses on the plan to infiltrate El Tigre's hideout, the execution of the plan, and the revelation of El Tigre himself.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S28",
+                    "title": "Planning and Entering the Hideout",
+                    "starting_page": "20",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(17, 20, 285, 216.5)",
+                    "description": "A plan is devised to infiltrate El Tigre's hideout, and the infiltration begins.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "55",
+                            "title": "Planning the Infiltration of El Tigre's Hideout",
+                            "starting_page": "20",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "56",
+                            "title": "Entering El Tigre's Hideout",
+                            "starting_page": "20",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "57",
+                            "title": "Distraction with Stage Dollars",
+                            "starting_page": "20",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "58",
+                            "title": "Champ's Arrival and Confrontation",
+                            "starting_page": "20",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "59",
+                            "title": "The Revelation of El Tigre",
+                            "starting_page": "20",
+                            "panel_index_of_start": "8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M17",
+            "title": "El Tigre's Capture and Axis Plot",
+            "description": "This major arc details El Tigre's capture, interrogation, and the revelation of Axis agents' involvement.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S29",
+                    "title": "Capture and Confinement of El Tigre",
+                    "starting_page": "21",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(17, 16, 262.5, 216)",
+                    "description": "El Tigre is captured and confined, setting the stage for interrogation.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "60",
+                            "title": "Accusation and Garbage Disposal",
+                            "starting_page": "21",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "61",
+                            "title": "El Tigre's Weariness and Cryptic Thought",
+                            "starting_page": "21",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S30",
+                    "title": "Interrogation and Axis Agent Reveal",
+                    "starting_page": "21",
+                    "panel_index_of_start": "4",
+                    "coordinates_of_starting_panel": "(228, 222, 452.5, 411)",
+                    "description": "Search for Rosita and interrogation of El Tigre reveal Axis agents' misuse of his name and involvement.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "62",
+                            "title": "Searching for Rosita and Threatening El Tigre",
+                            "starting_page": "21",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "63",
+                            "title": "Interrogation about Rosita and Denial of Kidnapping",
+                            "starting_page": "21",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "64",
+                            "title": "Axis Agents and Misused Name",
+                            "starting_page": "21",
+                            "panel_index_of_start": "8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M18",
+            "title": "Rosita's Location and Rescue Mission",
+            "description": "This major arc focuses on the discovery of Rosita's location and the mobilization of a rescue mission to save her.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S31",
+                    "title": "Demand for Explanation and News of Imprisonment",
+                    "starting_page": "22",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(34, 26, 330, 216)",
+                    "description": "Demand for explanation about Tigre leads to news of Rosita's imprisonment by Axis agents.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "65",
+                            "title": "Demand for Explanation Regarding Tigre's Actions",
+                            "starting_page": "22",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "66",
+                            "title": "Anger and Interrogation",
+                            "starting_page": "22",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "67",
+                            "title": "News of Rosita's Imprisonment",
+                            "starting_page": "22",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S32",
+                    "title": "Mobilizing the Rescue Force",
+                    "starting_page": "22",
+                    "panel_index_of_start": "5",
+                    "coordinates_of_starting_panel": "(488, 227, 615, 419)",
+                    "description": "Urgent call to action and resolve to rescue Rosita at any cost mobilize the rescue force.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "68",
+                            "title": "Urgent Call to Action and Pursuit",
+                            "starting_page": "22",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "69",
+                            "title": "Determined Resolve to Rescue Rosita at Any Cost",
+                            "starting_page": "22",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M19",
+            "title": "Pursuit and Rescue of Rosita",
+            "description": "This major arc details the pursuit of Rosita's captors, the infiltration of their location, and the rescue operation.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S33",
+                    "title": "Horseback Pursuit and Building Infiltration",
+                    "starting_page": "23",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(14, 22, 308, 222)",
+                    "description": "Horseback pursuit leads to building infiltration in pursuit of Rosita's captors.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "70",
+                            "title": "Horseback Pursuit and Building Infiltration",
+                            "starting_page": "23",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "71",
+                            "title": "Strategic Planning and Citadel Approach",
+                            "starting_page": "23",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "72",
+                            "title": "Agile Maneuvering and Wall Ascent",
+                            "starting_page": "23",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S34",
+                    "title": "Finding Rosita and Combat",
+                    "starting_page": "23",
+                    "panel_index_of_start": "7",
+                    "coordinates_of_starting_panel": "(225, 419, 403.5, 613.5)",
+                    "description": "Rosita is found, but immediate hostility erupts, leading to combat.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "73",
+                            "title": "Discovery of Rosita and Immediate Hostility",
+                            "starting_page": "23",
+                            "panel_index_of_start": "7"
+                        },
+                        {
+                            "arc_id": "74",
+                            "title": "Aggressive Hand-to-Hand Combat",
+                            "starting_page": "24",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "75",
+                            "title": "Machine Gun Threat and Heroic Intervention",
+                            "starting_page": "24",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "76",
+                            "title": "Recognition and Gratitude Post-Conflict",
+                            "starting_page": "24",
+                            "panel_index_of_start": "7"
+                        },
+                        {
+                            "arc_id": "77",
+                            "title": "Government Troops and Search for Fascists",
+                            "starting_page": "24",
+                            "panel_index_of_start": "9"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M20",
+            "title": "Devil Dog Dolan's Jungle Mission and Capture",
+            "description": "This major arc shifts focus to Devil Dog Dolan's jungle mission, his combat, and subsequent capture.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S35",
+                    "title": "Jungle Combat and Captain's Orders",
+                    "starting_page": "25",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(19, 15, 631.5, 425)",
+                    "description": "Devil Dog Dolan engages in jungle combat and then reports to Captain Lawton, revealing a high-stakes situation.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "78",
+                            "title": "Jungle Combat and Victory",
+                            "starting_page": "25",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "79",
+                            "title": "Disobedience and High Stakes Bargain",
+                            "starting_page": "25",
+                            "panel_index_of_start": "2"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S36",
+                    "title": "Jungle Pursuit and Ambush",
+                    "starting_page": "26",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(17, 13, 211.5, 210)",
+                    "description": "Pursuit into the jungle leads to an ambush and Dolan's capture.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "80",
+                            "title": "Pursuit into the Jungle",
+                            "starting_page": "26",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "81",
+                            "title": "Jungle Trek and Hidden Threat",
+                            "starting_page": "26",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "82",
+                            "title": "Ambush and Realization",
+                            "starting_page": "26",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S37",
+                    "title": "Dolan's Interrogation and Torture",
+                    "starting_page": "27",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(25, 23, 413.5, 216.5)",
+                    "description": "Dolan is captured, interrogated, and tortured for information.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "83",
+                            "title": "Dolan's Capture and Interrogation Begins",
+                            "starting_page": "27",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "84",
+                            "title": "Sinister Orders from the Commander",
+                            "starting_page": "27",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "85",
+                            "title": "Preparing the Torture",
+                            "starting_page": "27",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "86",
+                            "title": "Torture and Coercion for Information",
+                            "starting_page": "27",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M21",
+            "title": "Dolan's Arson and Native Alliance Shift",
+            "description": "This major arc shows Dolan's act of arson, reactions to it, and a significant shift in native allegiance.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S38",
+                    "title": "Dolan's Arson and Reactions",
+                    "starting_page": "28",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(16, 14, 209.5, 211)",
+                    "description": "Dolan admits to arson and sets fires, while reactions vary from pursuit to dismissal.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "87",
+                            "title": "Dolan Admits and Acts to Burn Supplies",
+                            "starting_page": "28",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "88",
+                            "title": "Marine's Reaction and Pursuit",
+                            "starting_page": "28",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "89",
+                            "title": "Enemy's Dismissal and Continued Objective",
+                            "starting_page": "28",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "90",
+                            "title": "Reassurance and Renewed Vigor",
+                            "starting_page": "28",
+                            "panel_index_of_start": "9"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S39",
+                    "title": "Dolan vs Natives and New Alliance",
+                    "starting_page": "29",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(25, 16, 225.5, 217)",
+                    "description": "Dolan fights natives, leading to the chief's death and a shift in native allegiance towards the marine and America.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "91",
+                            "title": "Dolan's Surprise Attack and Fight with Natives",
+                            "starting_page": "29",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "92",
+                            "title": "Grauer Departs",
+                            "starting_page": "29",
+                            "panel_index_of_start": "8"
+                        },
+                        {
+                            "arc_id": "93",
+                            "title": "Natives' Homage and Gratitude to Marine",
+                            "starting_page": "29",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "94",
+                            "title": "Positive Impression and 'Skunk Chase'",
+                            "starting_page": "29",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M22",
+            "title": "Captain's Decision and Service Discipline",
+            "description": "This major arc focuses on the Captain's difficult decision and concludes with a scene of service discipline, emphasizing duty.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S40",
+                    "title": "Captain's Dilemma and Intervention",
+                    "starting_page": "30",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(18, 19, 215, 214.5)",
+                    "description": "Captain faces a dilemma, makes a decision, and intervenes in a confrontation.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "95",
+                            "title": "Captain's Dilemma and Decision",
+                            "starting_page": "30",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "96",
+                            "title": "Captain's Intervention and Warning",
+                            "starting_page": "30",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "97",
+                            "title": "American Justice Fight",
+                            "starting_page": "30",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S41",
+                    "title": "Aftermath and Service Discipline",
+                    "starting_page": "30",
+                    "panel_index_of_start": "7",
+                    "coordinates_of_starting_panel": "(19, 423, 303, 612.5)",
+                    "description": "Shore leave is rescinded, Dolan is praised, and service discipline is enforced.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "98",
+                            "title": "Shore Leave Rescinded and Dolan's Praise",
+                            "starting_page": "30",
+                            "panel_index_of_start": "7"
+                        },
+                        {
+                            "arc_id": "99",
+                            "title": "Service Discipline and Spanking",
+                            "starting_page": "30",
+                            "panel_index_of_start": "8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M23",
+            "title": "Introduction of Twinkle Twins and Burgess Murder Case",
+            "description": "This major arc introduces the Twinkle Twins and the initial briefing on the Robert Burgess murder case.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S42",
+                    "title": "Twinkle Twins Premise Introduction",
+                    "starting_page": "31",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(25, 17, 616, 602)",
+                    "description": "Introduction of the Twinkle Twins and their mission to fight ruthless killers.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "100",
+                            "title": "Introduction of Twinkle Twins and their mission",
+                            "starting_page": "31",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S43",
+                    "title": "Newspaper Office Briefing",
+                    "starting_page": "32",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(14, 13, 221.5, 199.5)",
+                    "description": "Briefing at the Weston Call newspaper office about the Burgess murder case and suspect Tom Reilly.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "101",
+                            "title": "Newspaper Office Briefing on Burgess Murder",
+                            "starting_page": "32",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "102",
+                            "title": "Police Station Inquiry about Reilly",
+                            "starting_page": "32",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "103",
+                            "title": "Hospital Visit and Discovery of Miss Reilly",
+                            "starting_page": "32",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M24",
+            "title": "Investigation Deepens and Reilly Pursuit",
+            "description": "This major arc details the deepening investigation into the Burgess murder case, suspicion shifting towards Farnacci, and the pursuit of Tom Reilly.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S44",
+                    "title": "Hospital Impressions and Racketeering Suspicion",
+                    "starting_page": "33",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(32, 14, 343, 220.5)",
+                    "description": "Impressions of Miss Reilly at the hospital lead to suspicion of racketeering by Farnacci.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "104",
+                            "title": "Hospital Exit and Gentle Impression",
+                            "starting_page": "33",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "105",
+                            "title": "Racketeering Suspicion and Elijah Contact",
+                            "starting_page": "33",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "106",
+                            "title": "Candy Store Phone Inquiry to Elijah",
+                            "starting_page": "33",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "107",
+                            "title": "Radio Broadcast Revelation and Reilly Pursuit",
+                            "starting_page": "33",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S45",
+                    "title": "Irish Section Inquiry and Mrs. Murphy's Explanation",
+                    "starting_page": "34",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(22, 16, 331, 217.5)",
+                    "description": "Inquiries in the Irish section lead to Mrs. Murphy's explanation of Tom Reilly's situation and innocence.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "108",
+                            "title": "Irish Section Inquiry and Invitation",
+                            "starting_page": "34",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "109",
+                            "title": "Mrs. Murphy's Explanation of Tom Reilly's Situation",
+                            "starting_page": "34",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S46",
+                    "title": "Gunfire, Escape Attempt, and Citizen Blockade",
+                    "starting_page": "34",
+                    "panel_index_of_start": "6",
+                    "coordinates_of_starting_panel": "(21, 412, 185, 612)",
+                    "description": "Sudden gunfire disrupts the scene, leading to Reilly's escape attempt and a citizen blockade.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "110",
+                            "title": "Sudden Gunfire and Urgent Warning",
+                            "starting_page": "34",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "111",
+                            "title": "Reilly's Escape and Desperate Pursuit",
+                            "starting_page": "34",
+                            "panel_index_of_start": "8"
+                        },
+                        {
+                            "arc_id": "112",
+                            "title": "Car Chase and Citizen Blockade",
+                            "starting_page": "35",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M25",
+            "title": "Citizen Action, Police Intervention and Reilly's Recovery",
+            "description": "This major arc concludes the Twinkle Twins story, showing citizen uprising, police intervention, and Tom Reilly's recovery thanks to community blood donation.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S47",
+                    "title": "Citizen Uprising and Police Arrival",
+                    "starting_page": "35",
+                    "panel_index_of_start": "7",
+                    "coordinates_of_starting_panel": "(30, 406, 252.5, 603)",
+                    "description": "Citizen uprising subdues criminals, followed by police intervention and arrests.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "113",
+                            "title": "Citizen Uprising",
+                            "starting_page": "35",
+                            "panel_index_of_start": "7"
+                        },
+                        {
+                            "arc_id": "114",
+                            "title": "Police Intervention and Resolution",
+                            "starting_page": "35",
+                            "panel_index_of_start": "8"
+                        },
+                        {
+                            "arc_id": "115",
+                            "title": "Police Assessment at Crime Scene",
+                            "starting_page": "36",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "116",
+                            "title": "Rushing to the Shooting Scene",
+                            "starting_page": "36",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "117",
+                            "title": "Hospital Arrival and Blood Transfusion Need",
+                            "starting_page": "36",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "118",
+                            "title": "Blood Type Mismatch and Community Aid",
+                            "starting_page": "36",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "119",
+                            "title": "Urgent Call for Blood Donors",
+                            "starting_page": "37",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "120",
+                            "title": "Community Responds to Blood Donation Call",
+                            "starting_page": "37",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "121",
+                            "title": "Anxious Wait in Hospital Corridors",
+                            "starting_page": "37",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "122",
+                            "title": "Blood Type Confirmation",
+                            "starting_page": "37",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "123",
+                            "title": "Nurse Prepares for Transfusion",
+                            "starting_page": "37",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "124",
+                            "title": "Blood Donation in Progress",
+                            "starting_page": "37",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "125",
+                            "title": "Tom Reilly Receives Life-Giving Blood",
+                            "starting_page": "37",
+                            "panel_index_of_start": "7"
+                        },
+                        {
+                            "arc_id": "126",
+                            "title": "Reilly Revives After Transfusion",
+                            "starting_page": "37",
+                            "panel_index_of_start": "8"
+                        },
+                        {
+                            "arc_id": "127",
+                            "title": "Optimistic Prognosis and Future Conversation",
+                            "starting_page": "37",
+                            "panel_index_of_start": "9"
+                        },
+                        {
+                            "arc_id": "128",
+                            "title": "Demand for Farnacci to Donate Blood and Police Action Plan",
+                            "starting_page": "38",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "129",
+                            "title": "Police Confrontation and Arrest of Farnacci",
+                            "starting_page": "38",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "130",
+                            "title": "Celebration of Reilly's Daughter's Recovery and Farnacci's Imprisonment",
+                            "starting_page": "38",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
