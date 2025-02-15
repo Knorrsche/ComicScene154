@@ -1,0 +1,135 @@
+{
+    "file_name": "img_000000000000005_aoop1_005_jpg.rf.888340a246f9267375aae595eb2a9874.jpg",
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 4,
+            "category_id": 1,
+            "bbox": [
+                17,
+                16,
+                316.5,
+                217.5
+            ],
+            "area": 60349.25,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 4,
+            "category_id": 1,
+            "bbox": [
+                324,
+                16,
+                620.5,
+                216.5
+            ],
+            "area": 59448.25,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 4,
+            "category_id": 1,
+            "bbox": [
+                17,
+                218,
+                319.5,
+                419
+            ],
+            "area": 60802.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 4,
+            "category_id": 1,
+            "bbox": [
+                321,
+                218,
+                615.5,
+                418.5
+            ],
+            "area": 59047.25,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 4,
+            "category_id": 1,
+            "bbox": [
+                21,
+                421,
+                388,
+                618
+            ],
+            "area": 72299,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 6,
+            "image_id": 4,
+            "category_id": 1,
+            "bbox": [
+                397,
+                421,
+                618,
+                621.5
+            ],
+            "area": 44310.5,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ],
+    "comiq_bubbles": [
+        {
+            "text_box": [
+                41,
+                224,
+                49,
+                288
+            ],
+            "text": "ITS ONE OF THOSE\nNEW COMPACTS\nVERY ECONOMICAL/",
+            "panel_id": "1",
+            "type": "dialogue"
+        },
+        {
+            "text_box": [
+                34,
+                372,
+                48,
+                427
+            ],
+            "text": "WOW!",
+            "panel_id": "2",
+            "type": "sound_effect"
+        },
+        {
+            "text_box": [
+                240,
+                508,
+                256,
+                585
+            ],
+            "text": "YOW!!!",
+            "panel_id": "4",
+            "type": "sound_effect"
+        },
+        {
+            "text_box": [
+                426,
+                36,
+                460,
+                336
+            ],
+            "text": "ZOG, YOU GOT YERSELF\nA DEAL! THIS LIL\nDINO IS THE ZIPPIEST\nTHING I EVER SAW!",
+            "panel_id": "5",
+            "type": "dialogue"
+        }
+    ]
+}

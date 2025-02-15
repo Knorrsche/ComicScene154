@@ -1,0 +1,1070 @@
+{
+    "Major_Arcs": [
+        {
+            "arc_id": "M1",
+            "title": "Dinosaur Dealership and Purchase",
+            "description": "This major arc encompasses the storyline centered around the dinosaur dealership, featuring Dinny's trade-in, dinosaur shopping, a test ride, and the ultimate purchase of a dinosaur.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S1",
+                    "title": "Trade-in and Dealership Visit",
+                    "starting_page": "3",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(32, 18, 322, 215)",
+                    "description": "This sub-scene introduces the idea of trading in an old dinosaur and transitions to Honest Zog's Dinosaur Dealership, setting the stage for dinosaur shopping.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "3",
+                            "title": "Considering a Trade-In",
+                            "starting_page": "3",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "4",
+                            "title": "Honest Zog's Dinosaur Dealership and Shopping",
+                            "starting_page": "3",
+                            "panel_index_of_start": "2"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S2",
+                    "title": "Test Ride and Purchase of a Zippy Dinosaur",
+                    "starting_page": "4",
+                    "panel_index_of_start": "2",
+                    "coordinates_of_starting_panel": "(324, 16, 620.5, 216.5)",
+                    "description": "This sub-scene focuses on a customer's test ride of a 'zippy' dinosaur, the unexpected pinching incident, and the subsequent purchase despite the mishap.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "5",
+                            "title": "The Zippy Dinosaur's Test Ride and Pinch",
+                            "starting_page": "4",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "6",
+                            "title": "Concluding the Dinosaur Deal After Test Ride",
+                            "starting_page": "4",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S3",
+                    "title": "Dinny's Trade and Resale",
+                    "starting_page": "5",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(25, 16, 320.5, 216.5)",
+                    "description": "This sub-scene depicts the farewell to Dinny, his trade-in at the dealership, and his subsequent resale at a discounted price.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "7",
+                            "title": "Farewell to Dinny and Departure",
+                            "starting_page": "5",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "8",
+                            "title": "Dinny on Sale at the Dinosaur Dealership",
+                            "starting_page": "5",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S4",
+                    "title": "Dinny's Unmasking and Reunion",
+                    "starting_page": "6",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(21, 19, 357.5, 217.5)",
+                    "description": "This sub-scene involves a new dinosaur sale attempt, a bumpy test ride, and the dramatic reveal that the problematic dinosaur is actually Dinny, leading to his return.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "9",
+                            "title": "Dinosaur Sales Pitch and Unpleasant Test Ride",
+                            "starting_page": "6",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "10",
+                            "title": "Dinny's Unmasking and Recognition",
+                            "starting_page": "6",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "11",
+                            "title": "Dinny's Defense and Reassurance",
+                            "starting_page": "7",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "12",
+                            "title": "Dinny's Uncontrolled Return",
+                            "starting_page": "7",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M2",
+            "title": "Romantic Misunderstandings and Fishing Trip",
+            "description": "This major arc focuses on romantic relationships and conflicts, particularly involving Alley and Coola, and a fishing trip that highlights male-female dynamics and interpersonal annoyances.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S5",
+                    "title": "Coola's Rejection and Breakup",
+                    "starting_page": "8",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(24, 21, 616, 220.5)",
+                    "description": "This sub-scene depicts Alley's invitation to Coola for fishing, her rejection, and the dramatic breakup signaled by a falling rock.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "13",
+                            "title": "Fishing Invitation and Rejection",
+                            "starting_page": "8",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "14",
+                            "title": "Breakup and Dramatic Exit",
+                            "starting_page": "8",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S6",
+                    "title": "Misogynistic Musings and Fishing Trip Annoyances",
+                    "starting_page": "9",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(26, 15, 323, 215.5)",
+                    "description": "This sub-scene presents misogynistic viewpoints on women and shifts to specific annoyances experienced during a fishing trip, setting up interpersonal conflict.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "15",
+                            "title": "Misogynistic Musings on Women's Behavior",
+                            "starting_page": "9",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "16",
+                            "title": "Fishing Trip Annoyances: Baiting and Loud Talking",
+                            "starting_page": "9",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "17",
+                            "title": "Confrontation and Apology on the Fishing Trip",
+                            "starting_page": "9",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S7",
+                    "title": "Gossip, Jealousy, and Misdirected Romance",
+                    "starting_page": "10",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(20, 15, 315, 218)",
+                    "description": "This sub-scene involves gossip about Coola, escalating jealousy, and a journey to verify rumors, culminating in a scene of misdirected romantic attention towards Cherie.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "18",
+                            "title": "Gossip and Competition for Coola's Affections",
+                            "starting_page": "10",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "19",
+                            "title": "Skepticism and the Challenge to Verify Coola's Loyalty",
+                            "starting_page": "10",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "20",
+                            "title": "Misdirection and Admiration for Cherie",
+                            "starting_page": "10",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S8",
+                    "title": "Jealous Rage and Romantic Confusion",
+                    "starting_page": "11",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(30, 18, 315, 215.5)",
+                    "description": "This sub-scene portrays jealous confrontation, physical violence, misdirected aggression, and romantic realization, highlighting the complexities of love and jealousy.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "21",
+                            "title": "Jealous Confrontation and Physical Violence",
+                            "starting_page": "11",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "22",
+                            "title": "Misdirected Aggression and a Name Revealed",
+                            "starting_page": "11",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "23",
+                            "title": "Affectionate Comfort and a Confused Realization",
+                            "starting_page": "11",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S9",
+                    "title": "Romantic Advice and Misunderstood Romance",
+                    "starting_page": "12",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(25, 19, 377, 218.5)",
+                    "description": "This sub-scene features romantic advice given by 'Wal' to 'Pozy', exploring different definitions of romance and introducing the bizarre 'French Fried Freak' technique.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "24",
+                            "title": "Anger and Strategic Counsel",
+                            "starting_page": "12",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "25",
+                            "title": "Defining Romance - Eloquently and Crudely",
+                            "starting_page": "12",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "26",
+                            "title": "The 'French Fried Freak' Technique",
+                            "starting_page": "12",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "27",
+                            "title": "Rhyming Difficulty and Skeptical Contemplation",
+                            "starting_page": "12",
+                            "panel_index_of_start": "7"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S10",
+                    "title": "Romantic Gifts and Crocodile Interruption",
+                    "starting_page": "13",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(18, 14, 388.5, 216)",
+                    "description": "This sub-scene shows romantic gestures with flowers and a log, humorously interrupted by a crocodile attack and social commentary on vulgarity.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "28",
+                            "title": "Romantic Offering and Jealousy",
+                            "starting_page": "13",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "29",
+                            "title": "Log Gift and Crocodile Attack",
+                            "starting_page": "13",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "30",
+                            "title": "Critique of Vulgarity and Subdued Crocodile",
+                            "starting_page": "13",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S11",
+                    "title": "Jealous Outbursts and Misinterpreted Kisses",
+                    "starting_page": "14",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(21, 11, 291.5, 219)",
+                    "description": "This sub-scene includes jealous rage, a romantic interlude observed with confusion, verbal aggression, and a violent misunderstanding over a hand kiss.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "31",
+                            "title": "Jealous Rage and Vengeful Kick",
+                            "starting_page": "14",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "32",
+                            "title": "Romantic Interlude and Bewildered Onlooker",
+                            "starting_page": "14",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "33",
+                            "title": "Insult and Demand for Explanation",
+                            "starting_page": "14",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "34",
+                            "title": "Misinterpreted Kiss and Protective Violence",
+                            "starting_page": "14",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S12",
+                    "title": "Infidelity Accusations and Romantic Change",
+                    "starting_page": "15",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(26, 17, 367, 217)",
+                    "description": "This sub-scene features public accusations of infidelity, violent retribution for perceived cheating, and Alley's decision to become more romantic, observed with male confusion.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "35",
+                            "title": "Public Accusation of Infidelity",
+                            "starting_page": "15",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "36",
+                            "title": "Violent Retribution for Infidelity",
+                            "starting_page": "15",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "37",
+                            "title": "Alley's Romantic Resolution and New Approach",
+                            "starting_page": "15",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "38",
+                            "title": "Male Commentary on Female Behavior",
+                            "starting_page": "15",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M3",
+            "title": "The Twitch Dance Craze and its Consequences",
+            "description": "This major arc revolves around the introduction and spread of the 'New Twist' dance, exploring its social pressure, learning attempts, and unexpected, humorous consequences.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S13",
+                    "title": "Twist Dance Injuries and Social Pressure",
+                    "starting_page": "16",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(20, 15, 616, 220)",
+                    "description": "This sub-scene introduces the 'New Twist' dance, highlighting injuries caused by it and the social pressure to participate, particularly on Alley.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "39",
+                            "title": "Consequences of the New Twist Dance",
+                            "starting_page": "16",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "40",
+                            "title": "Pressure to Participate in the Twitch Dance",
+                            "starting_page": "16",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S14",
+                    "title": "Learning the Twitch and Identity Reveal",
+                    "starting_page": "17",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(21, 12, 319.5, 215)",
+                    "description": "This sub-scene depicts Alley's reluctant attempt to learn the 'twitch' dance, comedic mishaps during practice, and the surprising reveal of Alley's true identity as Miss Glump.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "41",
+                            "title": "Beginning of Dance Instruction",
+                            "starting_page": "17",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "42",
+                            "title": "Mishaps During Dance Practice",
+                            "starting_page": "17",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "43",
+                            "title": "Formal Lesson and Identity Reveal",
+                            "starting_page": "17",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S15",
+                    "title": "Humiliation and Hospitalization from the Twitch",
+                    "starting_page": "18",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(21, 14, 363.5, 215.5)",
+                    "description": "This sub-scene shows nighttime discussion about the twitch, public humiliation of Alley related to the dance, and the surprising consequence of widespread hospitalizations due to 'watching the twitch'.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "44",
+                            "title": "Nighttime Twitch Discussion and Mysterious Fear",
+                            "starting_page": "18",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "45",
+                            "title": "Humiliating Accusation of Ants",
+                            "starting_page": "18",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "46",
+                            "title": "Hospital Ward Twitch Aftermath",
+                            "starting_page": "18",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M4",
+            "title": "Time Travel to Spain for Research",
+            "description": "This major arc details the use of a time machine for historical research in 16th century Spain, focusing on Alley and Ooola's journey and their initial, chaotic experiences in the past.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S16",
+                    "title": "Planning Time Travel for Research",
+                    "starting_page": "19",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(24, 12, 622, 216)",
+                    "description": "This sub-scene introduces the research problem, the idea of using a time machine to gather firsthand information, and the preparation of the time machine for 'Oop'.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "47",
+                            "title": "Researching 16th Century Spain and the Time Machine Idea",
+                            "starting_page": "19",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "48",
+                            "title": "Preparing the Time Machine for Oop",
+                            "starting_page": "19",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S17",
+                    "title": "Romantic Interlude and Time Transportation",
+                    "starting_page": "19",
+                    "panel_index_of_start": "6",
+                    "coordinates_of_starting_panel": "(20, 633, 407, 812)",
+                    "description": "This sub-scene shows a romantic moment between Alley and Ooola interrupted by their unexpected transportation to the 20th century via time machine.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "49",
+                            "title": "Romantic Moonlight Scene with Alley and Ooola",
+                            "starting_page": "19",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "50",
+                            "title": "Arguing and Agreeing to a Kiss",
+                            "starting_page": "20",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "51",
+                            "title": "Time Machine Activation and Unexpected Transportation",
+                            "starting_page": "20",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S18",
+                    "title": "Arrival in 20th Century and Spanish Assignment",
+                    "starting_page": "21",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(22, 13, 323.5, 217)",
+                    "description": "This sub-scene depicts Alley and Ooola's arrival in the 20th century, their conversation with Dr. Wonmug, and the reveal of their 'important assignment' in Spain.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "52",
+                            "title": "Welcome to the 20th Century and the Spanish Assignment",
+                            "starting_page": "21",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "53",
+                            "title": "Frustration over Interrupted Kiss and Justification for Time Travel",
+                            "starting_page": "21",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "54",
+                            "title": "Postponed Kiss and Dispatch to Ancient Spain",
+                            "starting_page": "21",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S19",
+                    "title": "Chaos in Spain: Confrontation and Serenade",
+                    "starting_page": "22",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(24, 17, 361.5, 217)",
+                    "description": "This sub-scene shows Alley's arrival in Spain and his immediate chaotic encounters: a confrontation with an angry Spaniard and an intervention in a serenade gone wrong.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "55",
+                            "title": "Arrival in Spain and Initial Confusion",
+                            "starting_page": "22",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "56",
+                            "title": "Confrontation with an Angry Spaniard",
+                            "starting_page": "22",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "57",
+                            "title": "The Serenade and the Annoyed Observer",
+                            "starting_page": "22",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "58",
+                            "title": "Rejection from the Balcony",
+                            "starting_page": "22",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "59",
+                            "title": "Persistent Serenade and Escalating Frustration",
+                            "starting_page": "22",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "60",
+                            "title": "Alley's Intervention and Misunderstanding",
+                            "starting_page": "22",
+                            "panel_index_of_start": "6"
+                        },
+                        {
+                            "arc_id": "61",
+                            "title": "Attack on the Serenader and Balcony Woman's Initial Reaction",
+                            "starting_page": "23",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "62",
+                            "title": "Accusation and Misunderstanding of Relationship",
+                            "starting_page": "23",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "63",
+                            "title": "Woman's Assertive Declaration of Identity",
+                            "starting_page": "23",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "64",
+                            "title": "Apology, Impending Consequences, and the Manager's Arrival",
+                            "starting_page": "23",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S20",
+                    "title": "Bullfight Preparations and Performance",
+                    "starting_page": "24",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(19, 16, 624, 220)",
+                    "description": "This sub-scene details the urgent preparations for a bullfight, discussions about bullfighting technique, recruitment of a participant, and the actual bullfight performance with Alley as the bullfighter.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "65",
+                            "title": "Urgency to Start the Bullfight and Crowd's Demand",
+                            "starting_page": "24",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "66",
+                            "title": "Bullfighting Technique Discussion",
+                            "starting_page": "24",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "67",
+                            "title": "Recruitment Offer for Bullfight Participation",
+                            "starting_page": "24",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "68",
+                            "title": "Bullfight Commences Amidst Moral Conflict",
+                            "starting_page": "24",
+                            "panel_index_of_start": "5"
+                        },
+                        {
+                            "arc_id": "69",
+                            "title": "Spectator Commentary on Bullfighter's Appearance and Weapon Choice",
+                            "starting_page": "25",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "70",
+                            "title": "Doubt and Reassurance about the Bullfighter's Courage",
+                            "starting_page": "25",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "71",
+                            "title": "Swift Bullfight and Triumphant Outcome",
+                            "starting_page": "25",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M5",
+            "title": "Oop's Return and Kiss Denial",
+            "description": "This major arc focuses on the aftermath of Oop's mission to Spain, his return to the 20th century, and the unexpected denial of a promised kiss from Jane.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S21",
+                    "title": "Decision to Retrieve Oop and Spanish Interlude",
+                    "starting_page": "26",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(15, 14, 315.5, 218)",
+                    "description": "This sub-scene shows Jane's decision to bring Oop back, a brief romantic interlude in Spain, and Oop's unexpected return in a captured state.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "72",
+                            "title": "Decision to Retrieve Oop for Information",
+                            "starting_page": "26",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "73",
+                            "title": "Courting Scene with Spanish Lady and Gentleman",
+                            "starting_page": "26",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "74",
+                            "title": "Oop's Abduction and Jane's Relief at His Return",
+                            "starting_page": "26",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S22",
+                    "title": "The Promised Kiss and Unexpected Denial",
+                    "starting_page": "26",
+                    "panel_index_of_start": "4",
+                    "coordinates_of_starting_panel": "(391, 224, 618.5, 419.5)",
+                    "description": "This sub-scene centers on Jane reminding Oop of a promised kiss, his initial positive reaction, and his shocking denial of the kiss, hinting at a significant revelation.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "75",
+                            "title": "Jane Reminds Oop of Promised Kiss",
+                            "starting_page": "26",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "76",
+                            "title": "Oop's Unexpected Denial of Kiss and Revelation",
+                            "starting_page": "26",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M6",
+            "title": "King for a Day and Temporary Rule",
+            "description": "This major arc explores the concept of 'King for a Day', the initial experiences of temporary kingship, and the humorous downfall of a temporary ruler.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S23",
+                    "title": "The Burdens of Temporary Kingship",
+                    "starting_page": "27",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(26, 13, 621, 208)",
+                    "description": "This sub-scene introduces the 'King for a Day' and his initial orders, followed by the realization that being king is more tiring than it seems.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "77",
+                            "title": "King for a Day and the Reality of Throne Life",
+                            "starting_page": "27",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S24",
+                    "title": "Succession and Rejection of Temporary King",
+                    "starting_page": "27",
+                    "panel_index_of_start": "4",
+                    "coordinates_of_starting_panel": "(25, 425, 319.5, 625.5)",
+                    "description": "This sub-scene depicts the 'King's' planned absence, the appointment of a temporary replacement, and the crowd's immediate and violent rejection of the new temporary king.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "78",
+                            "title": "King's Planned Absence and Temporary Replacement",
+                            "starting_page": "27",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "79",
+                            "title": "Proclamation and Respect Demand for Temporary King",
+                            "starting_page": "28",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "80",
+                            "title": "Reign of Rocks: The Temporary King's Downfall",
+                            "starting_page": "28",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "81",
+                            "title": "Aftermath and the Original King's Return",
+                            "starting_page": "28",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M7",
+            "title": "Guz and Oompa's Domestic Conflict",
+            "description": "This major arc focuses on the domestic life of Guz and Oompa, highlighting their humorous conflict over misunderstandings and household chores.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S25",
+                    "title": "Ulcer Pills and Dirty Feet Dispute",
+                    "starting_page": "29",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(26, 15, 323.5, 218)",
+                    "description": "This sub-scene depicts Guz's misunderstanding about ulcer pills, Oompa's anger over dirty feet on a clean floor, and the resulting chase and foot washing.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "82",
+                            "title": "Guz's Misunderstood Leisure and Oompa's Ire",
+                            "starting_page": "29",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S26",
+                    "title": "Guz's Tub Reflection",
+                    "starting_page": "29",
+                    "panel_index_of_start": "6",
+                    "coordinates_of_starting_panel": "(385, 426, 622.5, 621.5)",
+                    "description": "This sub-scene shows Guz in a tub, reflecting on his experience and understanding why the original Guz takes frequent vacations.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "83",
+                            "title": "Guz's Tub Contemplation and Vacation Insight",
+                            "starting_page": "29",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M8",
+            "title": "Royal Justice and Clam Dispute",
+            "description": "This major arc revolves around a dispute over found clams, featuring royal intervention, investigation, and a wise elder's resolution to the conflict.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S27",
+                    "title": "Accusations and Royal Inquiry",
+                    "starting_page": "30",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(22, 17, 312.5, 219)",
+                    "description": "This sub-scene presents initial conflicts including cheating accusations and a money fight, leading to a royal inquiry about a new disturbance - the clam dispute.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "84",
+                            "title": "Accusation of Cheating in a Game",
+                            "starting_page": "30",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "85",
+                            "title": "Money Fight and Royal Intervention",
+                            "starting_page": "30",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "86",
+                            "title": "The Mystery of the Missing Clams and Royal Inquiry",
+                            "starting_page": "30",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S28",
+                    "title": "Wise Elder's Resolution",
+                    "starting_page": "30",
+                    "panel_index_of_start": "4",
+                    "coordinates_of_starting_panel": "(449, 222, 619.5, 425)",
+                    "description": "This sub-scene shows the crowned figure realizing the clams are his, involving a wise elder, and the elder's clever resolution by declaring the clams are gone.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "87",
+                            "title": "Royal Deduction and Wise Elder Intervention in the Clam Dispute",
+                            "starting_page": "30",
+                            "panel_index_of_start": "4"
+                        },
+                        {
+                            "arc_id": "88",
+                            "title": "Wise Elder's Resolution: 'Nothing Left to Fight About'",
+                            "starting_page": "30",
+                            "panel_index_of_start": "6"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M9",
+            "title": "Life in Moonina Palace",
+            "description": "This major arc explores aspects of royal life in Moonina Palace, including investigating disturbances, financial dealings of the advisor, and the crowned king's health concerns.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S29",
+                    "title": "Palace Disturbance and Advisor's Money Keeping",
+                    "starting_page": "31",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(24, 17, 317.5, 213.5)",
+                    "description": "This sub-scene depicts the investigation of a racket outside Moonina Palace, revealing a fight, and then shifts to the advisor's admission of keeping money.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "89",
+                            "title": "Investigating the Racket Outside",
+                            "starting_page": "31",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "90",
+                            "title": "Accusation of Money Keeping",
+                            "starting_page": "31",
+                            "panel_index_of_start": "3"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S30",
+                    "title": "Dinner and Royal Health Concerns",
+                    "starting_page": "31",
+                    "panel_index_of_start": "4",
+                    "coordinates_of_starting_panel": "(332, 221, 621, 421.5)",
+                    "description": "This sub-scene focuses on dinner at Moonina Palace, highlighting the crowned king's enjoyment of rich food and the advisor's sudden concern for his ulcer.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "91",
+                            "title": "Dinner and Ulcer Warning",
+                            "starting_page": "31",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S31",
+                    "title": "Unpleasant Dinner and Sudden Attack",
+                    "starting_page": "32",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(18, 15, 320.5, 216.5)",
+                    "description": "This sub-scene depicts a messy and unpleasant dinner, the king's regret about being king, and a sudden, violent attack on the king by the serving caveman.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "92",
+                            "title": "Unpleasant Dinner and Regret",
+                            "starting_page": "32",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "93",
+                            "title": "Surprise Attack",
+                            "starting_page": "32",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M10",
+            "title": "Apologies, Abdication, and Ruler Offer",
+            "description": "This major arc includes scenes of reconciliation between Guz and Oompah, the abdication of the crowned king, and a surprising offer of rulership to a young caveman.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S32",
+                    "title": "Guz and Oompah's Reconciliation",
+                    "starting_page": "33",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(23, 16, 619.5, 217)",
+                    "description": "This sub-scene features apologies exchanged between Guz and Oompah, resolving their previous conflict and highlighting Oompah's aversion to Guz's job.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "94",
+                            "title": "Apologies and Job Rejection",
+                            "starting_page": "33",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S33",
+                    "title": "King's Freedom and Ruler Proposition",
+                    "starting_page": "33",
+                    "panel_index_of_start": "3",
+                    "coordinates_of_starting_panel": "(328, 221, 624.5, 423)",
+                    "description": "This sub-scene depicts the former crowned king's relief at being an ordinary citizen again and introduces a new proposition: offering rulership to a young caveman.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "95",
+                            "title": "Freedom from Kingship",
+                            "starting_page": "33",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "96",
+                            "title": "Offer of Rulership",
+                            "starting_page": "33",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S34",
+                    "title": "Measuring Interlude",
+                    "starting_page": "33",
+                    "panel_index_of_start": "5",
+                    "coordinates_of_starting_panel": "(244, 429, 618.5, 626)",
+                    "description": "This sub-scene is a brief, comedic interlude showing cavemen measuring with a board and featuring a character labeled 'Strange Duck'.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "97",
+                            "title": "Measuring with a Board and Strange Duck",
+                            "starting_page": "33",
+                            "panel_index_of_start": "5"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M11",
+            "title": "The Barberous Act and Tonsorial Parlor",
+            "description": "This major arc introduces the 'Barberous Act', initially presented as a prophecy and then revealed as a forced shaving service, culminating in a busy tonsorial parlor.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S35",
+                    "title": "Prophecy of the Barberous Act",
+                    "starting_page": "34",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(11, 16, 619, 220.5)",
+                    "description": "This sub-scene sets up the 'Barberous Act' through a prophecy by the Grand Wizer, foretelling a meeting with a bearded stranger.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "98",
+                            "title": "Introduction to the Barberous Act",
+                            "starting_page": "34",
+                            "panel_index_of_start": "1"
+                        }
+                    ]
+                },
+                {
+                    "sub_scene_id": "S36",
+                    "title": "Forced Shaving and Tonsorial Service",
+                    "starting_page": "34",
+                    "panel_index_of_start": "2",
+                    "coordinates_of_starting_panel": "(13, 228, 313, 430)",
+                    "description": "This sub-scene reveals the 'Barberous Act' as forced shaving, shows the bearded man performing this act, and transitions to 'Moo Tonsorial Parlor', where it's a commercial service.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "99",
+                            "title": "Ooola's Interruption",
+                            "starting_page": "34",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "100",
+                            "title": "The Forced Shave",
+                            "starting_page": "34",
+                            "panel_index_of_start": "3"
+                        },
+                        {
+                            "arc_id": "101",
+                            "title": "Moo Tonsorial Parlor",
+                            "starting_page": "34",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "arc_id": "M12",
+            "title": "Time Machine Malfunction and Roman Centurion",
+            "description": "This major arc concludes the narrative by revisiting the time machine, depicting its malfunction and the unexpected arrival of a Roman Centurion instead of Oop.",
+            "sub_scenes": [
+                {
+                    "sub_scene_id": "S37",
+                    "title": "Time Machine Setup and Malfunction",
+                    "starting_page": "35",
+                    "panel_index_of_start": "1",
+                    "coordinates_of_starting_panel": "(30, 28, 614, 224.5)",
+                    "description": "This sub-scene shows the inventor preparing the time machine to bring Oop to the present, but instead, a Roman Centurion materializes due to a malfunction.",
+                    "narrative_arcs": [
+                        {
+                            "arc_id": "102",
+                            "title": "Time Machine Setup and Expectation",
+                            "starting_page": "35",
+                            "panel_index_of_start": "1"
+                        },
+                        {
+                            "arc_id": "103",
+                            "title": "Materialization and Unexpected Visitor",
+                            "starting_page": "35",
+                            "panel_index_of_start": "2"
+                        },
+                        {
+                            "arc_id": "104",
+                            "title": "Reaction and Realization of Malfunction",
+                            "starting_page": "35",
+                            "panel_index_of_start": "4"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

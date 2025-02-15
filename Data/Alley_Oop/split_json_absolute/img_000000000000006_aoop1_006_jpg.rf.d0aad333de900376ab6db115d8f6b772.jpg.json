@@ -1,0 +1,132 @@
+{
+    "file_name": "img_000000000000006_aoop1_006_jpg.rf.d0aad333de900376ab6db115d8f6b772.jpg",
+    "annotations": [
+        {
+            "id": 1,
+            "image_id": 28,
+            "category_id": 1,
+            "bbox": [
+                25,
+                16,
+                320.5,
+                216.5
+            ],
+            "area": 59247.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 2,
+            "image_id": 28,
+            "category_id": 1,
+            "bbox": [
+                328,
+                19,
+                618.5,
+                216.5
+            ],
+            "area": 57373.75,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 3,
+            "image_id": 28,
+            "category_id": 1,
+            "bbox": [
+                25,
+                223,
+                622,
+                420.5
+            ],
+            "area": 117907.5,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 4,
+            "image_id": 28,
+            "category_id": 1,
+            "bbox": [
+                26,
+                432,
+                326,
+                624
+            ],
+            "area": 57600,
+            "segmentation": [],
+            "iscrowd": 0
+        },
+        {
+            "id": 5,
+            "image_id": 28,
+            "category_id": 1,
+            "bbox": [
+                325,
+                426,
+                628,
+                626
+            ],
+            "area": 60600,
+            "segmentation": [],
+            "iscrowd": 0
+        }
+    ],
+    "comiq_bubbles": [
+        {
+            "text_box": [
+                233,
+                108,
+                244,
+                201
+            ],
+            "text": "SLONG, ZOG! SLONG, DINNY!",
+            "panel_id": "3",
+            "type": "dialogue"
+        },
+        {
+            "text_box": [
+                337,
+                482,
+                344,
+                510
+            ],
+            "text": "SNIFFLE! SNIFFLE!",
+            "panel_id": "3",
+            "type": "sound_effect"
+        },
+        {
+            "text_box": [
+                432,
+                72,
+                457,
+                273
+            ],
+            "text": "I FELT BAD TRADIN IN DINNY THAT WAY, BUT I GUESS IT IS TIME HE WAS PUT OUT TO PASTURE!",
+            "panel_id": "4",
+            "type": "dialogue"
+        },
+        {
+            "text_box": [
+                519,
+                435,
+                549,
+                522
+            ],
+            "text": "MARKED DOWN TO 75 CLAMS AS IS",
+            "panel_id": "5",
+            "type": "background"
+        },
+        {
+            "text_box": [
+                456,
+                541,
+                476,
+                614
+            ],
+            "text": "HON NEW &",
+            "panel_id": "5",
+            "type": "background"
+        }
+    ]
+}
