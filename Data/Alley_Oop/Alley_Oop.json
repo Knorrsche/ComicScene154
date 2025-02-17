@@ -1,79 +1,2159 @@
 {
-  "comic": {
-    "series": "Alley_Oop",
-    "chapters": [
-      {
-        "title": "Wet_a_Way_to_go",
-        "pages": [[1, 0, 0, 0, 0]]
-      },
-      {
-        "title": "Bronto_Soreness",
-        "pages": [
-          [1, 0, 0, 1, 0],
-          [0, 0, 1, 0, 0],
-          [0, 0, 0, 0, 1, 0],
-          [0, 0, 0, 0, 1],
-          [0, 0, 0, 0, 0, 1],
-          [0, 0, 0, 0]
-        ]
-      },{
-        "title": "Foreign_Entaglement",
-        "pages": [
-          [1, 0, 0, 0, 0],
-          [1, 0, 0, 0, 0],
-          [1, 0, 0, 0, 0, 1],
-          [1, 0, 0, 0, 0, 0],
-          [1, 0, 0, 0, 0, 0, 0],
-          [0, 1, 0, 0, 0],
-          [1, 0, 0, 1, 0, 0],
-          [0, 0, 0, 0, 0, 0]
-        ]
-      },{
-        "title": "New_Twist",
-        "pages": [
-          [1, 0, 0, 0, 0],
-          [1, 0, 0, 0, 0, 0, 0],
-          [1, 0, 0, 0, 0]
-        ]
-      },
-      {
-        "title": "Sain_in_the_Neck",
-        "pages": [
-          [1, 0, 0, 0, 0, 1],
-          [0, 0, 0, 0, 0, 1],
-          [0, 0, 0, 0, 0, 0],
-          [1, 0, 0, 0, 0, 0],
-          [0, 1, 0, 0, 0, 0],
-          [1, 0, 0, 0, 0],
-          [1, 0, 0, 0, 0],
-          [1, 0, 0, 0, 0, 0]
-        ]
-      },
+    "pages": [
         {
-        "title": "King_for_a_Day",
-        "pages": [
-          [1, 0, 0, 0, 0],
-          [0, 0, 0, 0, 1],
-          [0, 0, 0, 0, 0, 1],
-          [0, 0, 0, 0, 1, 0],
-          [0, 0, 0, 1, 0, 0],
-          [0, 0, 0, 1, 0],
-          [0, 0, 1, 0, 0]
-        ]
-      },
-            {
-        "title": "A_Barberous_Act",
-        "pages": [
-          [1, 0, 0, 0, 0]
-        ]
-      },
-                  {
-        "title": "Time-And-A-Hap",
-        "pages": [
-          [1, 0, 0, 0, 0]
-        ]
-      }
-      
+            "page_number": 1,
+            "file_name": "Alley_Oop_Page_1.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        17,
+                        18,
+                        618,
+                        224.5
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        16,
+                        231,
+                        308.5,
+                        435.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        324,
+                        231,
+                        616,
+                        432.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        18,
+                        440,
+                        312,
+                        637.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        321,
+                        443,
+                        613,
+                        640
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 2,
+            "file_name": "Alley_Oop_Page_2.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        22,
+                        27,
+                        612.5,
+                        206.5
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        23,
+                        207,
+                        316.5,
+                        392
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        325,
+                        209,
+                        617,
+                        391
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        20,
+                        394,
+                        318,
+                        570.5
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        321,
+                        395,
+                        614.5,
+                        572
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 3,
+            "file_name": "Alley_Oop_Page_3.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        32,
+                        18,
+                        322,
+                        215
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        328,
+                        15,
+                        619,
+                        218
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        28,
+                        219,
+                        621,
+                        417
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        22,
+                        422,
+                        317.5,
+                        622.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        327,
+                        419,
+                        621,
+                        621.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 4,
+            "file_name": "Alley_Oop_Page_4.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        17,
+                        16,
+                        316.5,
+                        217.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        324,
+                        16,
+                        620.5,
+                        216.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        17,
+                        218,
+                        319.5,
+                        419
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        321,
+                        218,
+                        615.5,
+                        418.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        21,
+                        421,
+                        388,
+                        618
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        397,
+                        421,
+                        618,
+                        621.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 5,
+            "file_name": "Alley_Oop_Page_5.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        25,
+                        16,
+                        320.5,
+                        216.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        328,
+                        19,
+                        618.5,
+                        216.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        25,
+                        223,
+                        622,
+                        420.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        26,
+                        432,
+                        326,
+                        624
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        325,
+                        426,
+                        628,
+                        626
+                    ],
+                    "starting_tag": true
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 6,
+            "file_name": "Alley_Oop_Page_6.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        21,
+                        19,
+                        357.5,
+                        217.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        360,
+                        18,
+                        618.5,
+                        220
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        22,
+                        223,
+                        315.5,
+                        421
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        320,
+                        222,
+                        613.5,
+                        422
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        20,
+                        428,
+                        390.5,
+                        626.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        396,
+                        422,
+                        612.5,
+                        628
+                    ],
+                    "starting_tag": true
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 7,
+            "file_name": "Alley_Oop_Page_7.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        20,
+                        17,
+                        618.5,
+                        215
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        21,
+                        223,
+                        317.5,
+                        418.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        327,
+                        219,
+                        622.5,
+                        419.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        23,
+                        424,
+                        628,
+                        624.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 8,
+            "file_name": "Alley_Oop_Page_8.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        24,
+                        21,
+                        616,
+                        220.5
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        22,
+                        224,
+                        325,
+                        419.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        338,
+                        227,
+                        611,
+                        420.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        25,
+                        428,
+                        310,
+                        624.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        311,
+                        428,
+                        615.5,
+                        622.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 9,
+            "file_name": "Alley_Oop_Page_9.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        26,
+                        15,
+                        323,
+                        215.5
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        332,
+                        17,
+                        622,
+                        215.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        25,
+                        219,
+                        319.5,
+                        419
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        328,
+                        221,
+                        621.5,
+                        421
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        25,
+                        426,
+                        621,
+                        620
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 10,
+            "file_name": "Alley_Oop_Page_10.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        20,
+                        15,
+                        315,
+                        218
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        324,
+                        15,
+                        614,
+                        218.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        21,
+                        225,
+                        195.5,
+                        421
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        204,
+                        223,
+                        399.5,
+                        423.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        405,
+                        221,
+                        615,
+                        424
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        21,
+                        429,
+                        615.5,
+                        622.5
+                    ],
+                    "starting_tag": true
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 11,
+            "file_name": "Alley_Oop_Page_11.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        30,
+                        18,
+                        315,
+                        215.5
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        326,
+                        20,
+                        613,
+                        220
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        22,
+                        225,
+                        313.5,
+                        420.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        328,
+                        225,
+                        612.5,
+                        420.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        22,
+                        426,
+                        310.5,
+                        619
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        323,
+                        424,
+                        616.5,
+                        619.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 12,
+            "file_name": "Alley_Oop_Page_12.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        25,
+                        19,
+                        377,
+                        218.5
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        390,
+                        20,
+                        616.5,
+                        216.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        21,
+                        223,
+                        377.5,
+                        422.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        386,
+                        224,
+                        617,
+                        423.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        25,
+                        428,
+                        226,
+                        618.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        237,
+                        427,
+                        416,
+                        621.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 7,
+                    "bbox": [
+                        421,
+                        425,
+                        615,
+                        620.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 13,
+            "file_name": "Alley_Oop_Page_13.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        18,
+                        14,
+                        388.5,
+                        216
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        392,
+                        12,
+                        621.5,
+                        217
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        24,
+                        220,
+                        242.5,
+                        422.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        254,
+                        221,
+                        623.5,
+                        420.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        22,
+                        427,
+                        625.5,
+                        624.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 14,
+            "file_name": "Alley_Oop_Page_14.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        21,
+                        11,
+                        291.5,
+                        219
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        295,
+                        13,
+                        618.5,
+                        221
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        20,
+                        222,
+                        316.5,
+                        424.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        328,
+                        222,
+                        629,
+                        426
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        19,
+                        431,
+                        320.5,
+                        625.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        319,
+                        429,
+                        621.5,
+                        627.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 15,
+            "file_name": "Alley_Oop_Page_15.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        26,
+                        17,
+                        367,
+                        217
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        381,
+                        16,
+                        614,
+                        215.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        26,
+                        224,
+                        367,
+                        420
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        377,
+                        224,
+                        618.5,
+                        418.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        24,
+                        427,
+                        243.5,
+                        620
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        259,
+                        424,
+                        607,
+                        619
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 16,
+            "file_name": "Alley_Oop_Page_16.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        20,
+                        15,
+                        616,
+                        220
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        19,
+                        220,
+                        313,
+                        423
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        326,
+                        222,
+                        621.5,
+                        421.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        19,
+                        426,
+                        349.5,
+                        623
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        354,
+                        423,
+                        623,
+                        622.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 17,
+            "file_name": "Alley_Oop_Page_17.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        21,
+                        12,
+                        319.5,
+                        215
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        334,
+                        11,
+                        626.5,
+                        210.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        19,
+                        220,
+                        207.5,
+                        419
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        218,
+                        221,
+                        406.5,
+                        419.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        420,
+                        222,
+                        624,
+                        419
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        23,
+                        426,
+                        322,
+                        622.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 7,
+                    "bbox": [
+                        323,
+                        425,
+                        626.5,
+                        621.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 18,
+            "file_name": "Alley_Oop_Page_18.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        21,
+                        14,
+                        363.5,
+                        215.5
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        379,
+                        17,
+                        620,
+                        216
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        13,
+                        216,
+                        318.5,
+                        421
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        326,
+                        222,
+                        617.5,
+                        419
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        17,
+                        428,
+                        620.5,
+                        625.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 19,
+            "file_name": "Alley_Oop_Page_19.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        24,
+                        12,
+                        622,
+                        216
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        20,
+                        222,
+                        194.5,
+                        416
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        205,
+                        224,
+                        403.5,
+                        420
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        417,
+                        223,
+                        621,
+                        421
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        20,
+                        427,
+                        617,
+                        627.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 20,
+            "file_name": "Alley_Oop_Page_20.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        22,
+                        17,
+                        317.5,
+                        213
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        328,
+                        13,
+                        617.5,
+                        215
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        17,
+                        217,
+                        214.5,
+                        420
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        225,
+                        218,
+                        463.5,
+                        421
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        472,
+                        218,
+                        618,
+                        420
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        16,
+                        422,
+                        615,
+                        624
+                    ],
+                    "starting_tag": true
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 21,
+            "file_name": "Alley_Oop_Page_21.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        22,
+                        13,
+                        323.5,
+                        217
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        326,
+                        15,
+                        618,
+                        216.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        20,
+                        221,
+                        321,
+                        421.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        325,
+                        215,
+                        623,
+                        423.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        20,
+                        426,
+                        375,
+                        624.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        374,
+                        422,
+                        618,
+                        622
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 22,
+            "file_name": "Alley_Oop_Page_22.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        24,
+                        17,
+                        361.5,
+                        217
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        373,
+                        18,
+                        613.5,
+                        216
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        20,
+                        221,
+                        314.5,
+                        419.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        325,
+                        217,
+                        613.5,
+                        419.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        25,
+                        424,
+                        318,
+                        619.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        318,
+                        424,
+                        614,
+                        619
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 23,
+            "file_name": "Alley_Oop_Page_23.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        25,
+                        18,
+                        320.5,
+                        219.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        327,
+                        16,
+                        624.5,
+                        219.5
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        19,
+                        223,
+                        318.5,
+                        427.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        328,
+                        224,
+                        621.5,
+                        423
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        21,
+                        426,
+                        278,
+                        623
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        284,
+                        428,
+                        622,
+                        624
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 24,
+            "file_name": "Alley_Oop_Page_24.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        19,
+                        16,
+                        624,
+                        220
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        18,
+                        220,
+                        315.5,
+                        420
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        323,
+                        224,
+                        618.5,
+                        424.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        17,
+                        425,
+                        230,
+                        624
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        238,
+                        428,
+                        616,
+                        627
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 25,
+            "file_name": "Alley_Oop_Page_25.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        25,
+                        13,
+                        624,
+                        215.5
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        24,
+                        219,
+                        315,
+                        423.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        334,
+                        222,
+                        623,
+                        427
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        21,
+                        425,
+                        321.5,
+                        625.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        330,
+                        426,
+                        624,
+                        626.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 26,
+            "file_name": "Alley_Oop_Page_26.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        15,
+                        14,
+                        315.5,
+                        218
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        325,
+                        14,
+                        618,
+                        218.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        17,
+                        222,
+                        384.5,
+                        420
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        391,
+                        224,
+                        618.5,
+                        419.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        15,
+                        428,
+                        265,
+                        626
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        269,
+                        428,
+                        615,
+                        626
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 27,
+            "file_name": "Alley_Oop_Page_27.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        26,
+                        13,
+                        621,
+                        208
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        19,
+                        217,
+                        322,
+                        419.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        333,
+                        217,
+                        626.5,
+                        419.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        25,
+                        425,
+                        319.5,
+                        625.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        333,
+                        429,
+                        626.5,
+                        624.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 28,
+            "file_name": "Alley_Oop_Page_28.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        19,
+                        15,
+                        375,
+                        216.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        383,
+                        18,
+                        617,
+                        217
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        19,
+                        221,
+                        613,
+                        425.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        14,
+                        428,
+                        312,
+                        623
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        323,
+                        430,
+                        612,
+                        622
+                    ],
+                    "starting_tag": true
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 29,
+            "file_name": "Alley_Oop_Page_29.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        26,
+                        15,
+                        323.5,
+                        218
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        329,
+                        15,
+                        621,
+                        214.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        25,
+                        221,
+                        322,
+                        424.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        331,
+                        221,
+                        620.5,
+                        422.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        22,
+                        432,
+                        378,
+                        622.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        385,
+                        426,
+                        622.5,
+                        621.5
+                    ],
+                    "starting_tag": true
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 30,
+            "file_name": "Alley_Oop_Page_30.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        22,
+                        17,
+                        312.5,
+                        219
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        326,
+                        16,
+                        619.5,
+                        212.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        22,
+                        222,
+                        444.5,
+                        421.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        449,
+                        222,
+                        619.5,
+                        425
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        16,
+                        425,
+                        315.5,
+                        621
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        323,
+                        429,
+                        617.5,
+                        624.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 31,
+            "file_name": "Alley_Oop_Page_31.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        24,
+                        17,
+                        317.5,
+                        213.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        329,
+                        18,
+                        619.5,
+                        213
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        24,
+                        223,
+                        319.5,
+                        421.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        332,
+                        221,
+                        621,
+                        421.5
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        29,
+                        428,
+                        320.5,
+                        622.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 6,
+                    "bbox": [
+                        329,
+                        429,
+                        621.5,
+                        622
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 32,
+            "file_name": "Alley_Oop_Page_32.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        18,
+                        15,
+                        320.5,
+                        216.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        327,
+                        16,
+                        618,
+                        219
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        22,
+                        223,
+                        619.5,
+                        427.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        21,
+                        423,
+                        316,
+                        627.5
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        323,
+                        426,
+                        622.5,
+                        626.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 33,
+            "file_name": "Alley_Oop_Page_33.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        23,
+                        16,
+                        619.5,
+                        217
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        20,
+                        221,
+                        318.5,
+                        420
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        328,
+                        221,
+                        624.5,
+                        423
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        23,
+                        426,
+                        241,
+                        624.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        244,
+                        429,
+                        618.5,
+                        626
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 34,
+            "file_name": "Alley_Oop_Page_34.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        11,
+                        16,
+                        619,
+                        220.5
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        13,
+                        228,
+                        313,
+                        430
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        323,
+                        228,
+                        621,
+                        429
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        12,
+                        432,
+                        622.5,
+                        638.5
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        },
+        {
+            "page_number": 35,
+            "file_name": "Alley_Oop_Page_35.jpg",
+            "panels": [
+                {
+                    "id": 1,
+                    "bbox": [
+                        30,
+                        28,
+                        614,
+                        224.5
+                    ],
+                    "starting_tag": true
+                },
+                {
+                    "id": 2,
+                    "bbox": [
+                        28,
+                        234,
+                        316,
+                        430.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 3,
+                    "bbox": [
+                        324,
+                        235,
+                        605.5,
+                        429
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 4,
+                    "bbox": [
+                        28,
+                        437,
+                        319.5,
+                        634.5
+                    ],
+                    "starting_tag": false
+                },
+                {
+                    "id": 5,
+                    "bbox": [
+                        324,
+                        438,
+                        614.5,
+                        634
+                    ],
+                    "starting_tag": false
+                }
+            ],
+            "starting_tag": false
+        }
     ]
-  }
 }

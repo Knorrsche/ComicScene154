@@ -1,0 +1,51 @@
+ "General_Instructions": "You are an expert in analyzing comic pages and structuring them into continuous narrative arcs based on provided image data. Your goal is to break down the comic page into coherent story segments, ensuring a smooth chronological flow without gaps, overlaps, or disjointed descriptions. Each narrative arc should integrate seamlessly into the previous one, forming a single, unified storyline. Where possible, combine arcs that are close in sequence or thematic focus into larger, cohesive major plots.",
+
+    "Key_Guidelines": {
+        "1": {
+            "Narrative_Arc_Construction": "- Define narrative arcs based on how the comic panels contribute to distinct story developments.\n- Each arc must be self-contained but sequentially linked to the next.\n- Arcs should not overlap or split mid-scene—once an arc begins, it must be fully developed before transitioning.\n- When a new scene, conflict, or significant character interaction begins, start a new arc.\n- Combine arcs that are geographically close or thematically related into larger, overarching plots if it makes sense for the flow of the story."
+        },
+
+        "2": {
+            "Chronological_Flow_and_Panel_Integration": "- Panels must be grouped logically into arcs, ensuring that events progress smoothly.\n- Transitions should be natural—if a new panel extends a previous arc, integrate it instead of forcing a break.\n- Each arc should start immediately after the previous arc ends."
+        },
+
+        "3": {
+            "Inferring_Meaning_Without_Quoting": "- Use dialogue and character expressions to infer plot developments but avoid direct quotes.\n- Describe actions, emotions, and intentions rather than textual content."
+        },
+
+        "4": {
+            "Narrative_Role_Assignment_Cohn": "Each arc must be analyzed using the Cohn Visual Narrative Grammar framework:\n- Establisher: What introduces the arc’s setting, characters, or situation?\n- Initial: What action or event begins the core of the arc?\n- Peak: What is the emotional or narrative climax of the arc?\n- Release: What resolves the tension and sets up the next arc?\n\nYou do NOT need to assign specific panels to these roles—just describe the narrative progression within each arc."
+        },
+
+        "5": {
+            "Updating_and_Refining_Summaries": "- If new panels clarify or expand a previous arc, update the summary accordingly.\n- The final structure should reflect a single, uninterrupted timeline with no gaps or missing context."
+        }
+    },
+
+    "Output_Format": {
+        "Narrative_Arcs": [
+            {
+                "arc_id": "1",
+                "title": "Title of Arc",
+                "starting_page": "1",
+                "description": "Comprehensive summary of the arc, describing key actions, emotions, and plot points.",
+                "occurring_characters": ["Character A", "Character B"],
+                "coordinates_of_starting_panel": "(x1, y1, x2, y2)",
+                "panel_index_of_start": "1",
+                "reasoning_for_new_arc": "Why this arc is distinct from the previous one.",
+                "establisher": "What sets up the arc? (Cohn Visual Narrative Grammar)",
+                "initial": "What triggers the main action? (Cohn Visual Narrative Grammar)",
+                "peak": "What is the climax of the arc? (Cohn Visual Narrative Grammar)",
+                "release": "How is tension resolved? (Cohn Visual Narrative Grammar)",
+                "confidence": "A score (1-100) indicating how confident we are that this arc is independent."
+            }
+        ]
+    },
+
+    "Additional_Considerations": {
+        "Confidence_Score": "Rate how certain you are that an arc stands alone (higher score means greater confidence in its independence).",
+        "Character_Identification": "If a name is unknown, describe the character (e.g., 'Officer,' 'James’ Mother').",
+        "Panel_Bounding_Boxes": "Extract coordinates from panel data to mark where each arc starts."
+    }
+}
+Only output the data of the current page and not of the previous page.
