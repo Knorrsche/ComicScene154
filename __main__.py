@@ -4,7 +4,8 @@ import google.generativeai as genai
 
 model_name: str = "gemini-2.0-flash-thinking-exp"
 model_gemini = genai.GenerativeModel(model_name=model_name)
-genai.configure(api_key="AIzaSyDOWKh4Im7G8Y_p1Lf8enejbIb75ZQgAlA")
+#Eneter API Key for Gemini
+genai.configure(api_key="")
 
 
 if __name__ == '__main__':
